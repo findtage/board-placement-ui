@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Board Fitting Tool</title>
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.js"></script>
+</head>
+<body>
+  <script type="module">
+    import { BoardFittingToolScene } from './scenes/BoardFittingToolScene.js';
+
+    const config = {
+      type: Phaser.AUTO,
+      width: 1000,
+      height: 600,
+      backgroundColor: "#1a1a1a",
+      scene: [BoardFittingToolScene]
+    };
+
+    new Phaser.Game(config);
+  </script>
+</body>
+</html>

@@ -1,0 +1,4672 @@
+{
+  "board-barrelroll-06-2011": {
+    "path": "assets/boards/100x100/board-barrelroll-06-2011.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-bear-11-2011": {
+    "path": "assets/boards/100x100/board-bear-11-2011.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-birthdaycake-09-2012": {
+    "path": "assets/boards/100x100/board-birthdaycake-09-2012.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-brain-10-2011": {
+    "path": "assets/boards/100x100/board-brain-10-2011.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-dayoneprz-04-2013": {
+    "path": "assets/boards/100x100/board-dayoneprz-04-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-daytwoprz-04-2013": {
+    "path": "assets/boards/100x100/board-daytwoprz-04-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-firefly-08-2013": {
+    "path": "assets/boards/100x100/board-firefly-08-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-flyingheart-02-2013": {
+    "path": "assets/boards/100x100/board-flyingheart-02-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-glowcar-08-2013": {
+    "path": "assets/boards/100x100/board-glowcar-08-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-hamburgercar-05-2013": {
+    "path": "assets/boards/100x100/board-hamburgercar-05-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-hoverboard-12-2013": {
+    "path": "assets/boards/100x100/board-hoverboard-12-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-icecream-05-2013": {
+    "path": "assets/boards/100x100/board-icecream-05-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-moped-08-2013": {
+    "path": "assets/boards/100x100/board-moped-08-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-oreo-09-2013": {
+    "path": "assets/boards/100x100/board-oreo-09-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-paintedrose-08-2013": {
+    "path": "assets/boards/100x100/board-paintedrose-08-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-present-09-2012": {
+    "path": "assets/boards/100x100/board-present-09-2012.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-presents-09-2012": {
+    "path": "assets/boards/100x100/board-presents-09-2012.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-pumpkinpie-11-2013": {
+    "path": "assets/boards/100x100/board-pumpkinpie-11-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-pumpmon-10-2013": {
+    "path": "assets/boards/100x100/board-pumpmon-10-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-ruby-05-2013": {
+    "path": "assets/boards/100x100/board-ruby-05-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-sphinx-09-2013": {
+    "path": "assets/boards/100x100/board-sphinx-09-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-starblaze-02-2013": {
+    "path": "assets/boards/100x100/board-starblaze-02-2013.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board-ufo-01-2011": {
+    "path": "assets/boards/100x100/board-ufo-01-2011.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board_chick_04_2014": {
+    "path": "assets/boards/100x100/board_chick_04_2014.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board_cuddly_05_2014": {
+    "path": "assets/boards/100x100/board_cuddly_05_2014.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board_sack_06_2014": {
+    "path": "assets/boards/100x100/board_sack_06_2014.png",
+    "splitX": 100,
+    "splitY": 100
+  },
+  "board_glassdolphin-06-2013": {
+    "path": "assets/boards/100x106/board_glassdolphin-06-2013.png",
+    "splitX": 100,
+    "splitY": 106
+  },
+  "board-ani-fruitpunch-05-2011": {
+    "path": "assets/boards/100x111/board-ani-fruitpunch-05-2011.png",
+    "splitX": 100,
+    "splitY": 111
+  },
+  "board_cocktail-06-2013": {
+    "path": "assets/boards/100x116/board_cocktail-06-2013.png",
+    "splitX": 100,
+    "splitY": 116
+  },
+  "board-pogo-07-2011": {
+    "path": "assets/boards/100x120/board-pogo-07-2011.png",
+    "splitX": 100,
+    "splitY": 120
+  },
+  "board-pet-peachfuzz-08-2011": {
+    "path": "assets/boards/100x140/board-pet-peachfuzz-08-2011.png",
+    "splitX": 100,
+    "splitY": 140
+  },
+  "board-tootsie-06-2011": {
+    "path": "assets/boards/100x150/board-tootsie-06-2011.png",
+    "splitX": 100,
+    "splitY": 150
+  },
+  "board-hotairballoon-05-2011": {
+    "path": "assets/boards/100x170/board-hotairballoon-05-2011.png",
+    "splitX": 100,
+    "splitY": 170
+  },
+  "board-magichat-2-2011": {
+    "path": "assets/boards/100x200/board-magichat-2-2011.png",
+    "splitX": 100,
+    "splitY": 200
+  },
+  "board-smore-07-2011": {
+    "path": "assets/boards/100x200/board-smore-07-2011.png",
+    "splitX": 100,
+    "splitY": 200
+  },
+  "board_trophystand_05_2014": {
+    "path": "assets/boards/100x48/board_trophystand_05_2014.png",
+    "splitX": 100,
+    "splitY": 48
+  },
+  "board-foodfight-08-2012": {
+    "path": "assets/boards/100x50/board-foodfight-08-2012.png",
+    "splitX": 100,
+    "splitY": 50
+  },
+  "board-raver-07-2011": {
+    "path": "assets/boards/100x50/board-raver-07-2011.png",
+    "splitX": 100,
+    "splitY": 50
+  },
+  "board-smile-01-2010_rev0111": {
+    "path": "assets/boards/100x50/board-smile-01-2010_rev0111.png",
+    "splitX": 100,
+    "splitY": 50
+  },
+  "board-snowball-12-2011": {
+    "path": "assets/boards/100x50/board-snowball-12-2011.png",
+    "splitX": 100,
+    "splitY": 50
+  },
+  "board_gator_06_2014": {
+    "path": "assets/boards/100x50/board_gator_06_2014.png",
+    "splitX": 100,
+    "splitY": 50
+  },
+  "board-wood-01-2010": {
+    "path": "assets/boards/100x58/board-wood-01-2010.png",
+    "splitX": 100,
+    "splitY": 58
+  },
+  "board_cheese": {
+    "path": "assets/boards/100x58/board_cheese.png",
+    "splitX": 100,
+    "splitY": 58
+  },
+  "board-boy-feather-06-2011": {
+    "path": "assets/boards/100x59/board-boy-feather-06-2011.png",
+    "splitX": 100,
+    "splitY": 59
+  },
+  "board-girl-feather-06-2011": {
+    "path": "assets/boards/100x59/board-girl-feather-06-2011.png",
+    "splitX": 100,
+    "splitY": 59
+  },
+  "board-halfheart1-02-2011": {
+    "path": "assets/boards/100x59/board-halfheart1-02-2011.png",
+    "splitX": 100,
+    "splitY": 59
+  },
+  "board-halfheart2-02-2011": {
+    "path": "assets/boards/100x59/board-halfheart2-02-2011.png",
+    "splitX": 100,
+    "splitY": 59
+  },
+  "board-web-01-2012": {
+    "path": "assets/boards/100x59/board-web-01-2012.png",
+    "splitX": 100,
+    "splitY": 59
+  },
+  "board-treasure-05-2012": {
+    "path": "assets/boards/100x64/board-treasure-05-2012.png",
+    "splitX": 100,
+    "splitY": 64
+  },
+  "board-boss-08-2011": {
+    "path": "assets/boards/100x70/board-boss-08-2011.png",
+    "splitX": 100,
+    "splitY": 70
+  },
+  "board-planets-08-2012": {
+    "path": "assets/boards/100x70/board-planets-08-2012.png",
+    "splitX": 100,
+    "splitY": 70
+  },
+  "board-conch-05-2012": {
+    "path": "assets/boards/100x72/board-conch-05-2012.png",
+    "splitX": 100,
+    "splitY": 72
+  },
+  "board-mechslug-4-2011": {
+    "path": "assets/boards/100x75/board-mechslug-4-2011.png",
+    "splitX": 100,
+    "splitY": 75
+  },
+  "board-tornado-10-2011": {
+    "path": "assets/boards/100x76/board-tornado-10-2011.png",
+    "splitX": 100,
+    "splitY": 76
+  },
+  "board-teachersdesk-09-2012": {
+    "path": "assets/boards/100x79/board-teachersdesk-09-2012.png",
+    "splitX": 100,
+    "splitY": 79
+  },
+  "board-divingboard-07-2012": {
+    "path": "assets/boards/100x80/board-divingboard-07-2012.png",
+    "splitX": 100,
+    "splitY": 80
+  },
+  "board-kiddiepool-07-2012": {
+    "path": "assets/boards/100x80/board-kiddiepool-07-2012.png",
+    "splitX": 100,
+    "splitY": 80
+  },
+  "board-marshchick-04-2012": {
+    "path": "assets/boards/100x80/board-marshchick-04-2012.png",
+    "splitX": 100,
+    "splitY": 80
+  },
+  "board-marshchickb-04-2012": {
+    "path": "assets/boards/100x80/board-marshchickb-04-2012.png",
+    "splitX": 100,
+    "splitY": 80
+  },
+  "board-piratewheel-05-2012": {
+    "path": "assets/boards/100x80/board-piratewheel-05-2012.png",
+    "splitX": 100,
+    "splitY": 80
+  },
+  "board-mudpit-08-2011": {
+    "path": "assets/boards/100x82/board-mudpit-08-2011.png",
+    "splitX": 100,
+    "splitY": 82
+  },
+  "board-mudpit-recolor": {
+    "path": "assets/boards/100x82/board-mudpit-recolor.png",
+    "splitX": 100,
+    "splitY": 82
+  },
+  "board-camel-05-2012": {
+    "path": "assets/boards/100x86/board-camel-05-2012.png",
+    "splitX": 100,
+    "splitY": 86
+  },
+  "board-amplifier-06-2012": {
+    "path": "assets/boards/100x87/board-amplifier-06-2012.png",
+    "splitX": 100,
+    "splitY": 87
+  },
+  "board-fritz-12-2011": {
+    "path": "assets/boards/100x88/board-fritz-12-2011.png",
+    "splitX": 100,
+    "splitY": 88
+  },
+  "board-zombie-fritz-10-2013": {
+    "path": "assets/boards/100x88/board-zombie-fritz-10-2013.png",
+    "splitX": 100,
+    "splitY": 88
+  },
+  "2017_09_board_rare": {
+    "path": "assets/boards/100x90/2017_09_board_rare.png",
+    "splitX": 100,
+    "splitY": 90
+  },
+  "2016_07_board_bbq": {
+    "path": "assets/boards/102x84/2016_07_board_bbq.png",
+    "splitX": 102,
+    "splitY": 84
+  },
+  "board-cake-05-2013": {
+    "path": "assets/boards/103x72/board-cake-05-2013.png",
+    "splitX": 103,
+    "splitY": 72
+  },
+  "2016_03_easter_prize_board": {
+    "path": "assets/boards/104x66/2016_03_easter_prize_board.png",
+    "splitX": 104,
+    "splitY": 66
+  },
+  "board-moviestar-04-2012": {
+    "path": "assets/boards/105x170/board-moviestar-04-2012.png",
+    "splitX": 105,
+    "splitY": 170
+  },
+  "board-castle-05-2012": {
+    "path": "assets/boards/105x192/board-castle-05-2012.png",
+    "splitX": 105,
+    "splitY": 192
+  },
+  "2017_08_board_bff2": {
+    "path": "assets/boards/105x38/2017_08_board_bff2.png",
+    "splitX": 105,
+    "splitY": 38
+  },
+  "board-turtletank-01-2012": {
+    "path": "assets/boards/105x70/board-turtletank-01-2012.png",
+    "splitX": 105,
+    "splitY": 70
+  },
+  "2018_01_board_rare": {
+    "path": "assets/boards/106x100/2018_01_board_rare.png",
+    "splitX": 106,
+    "splitY": 100
+  },
+  "board-sewer-02-2012": {
+    "path": "assets/boards/106x40/board-sewer-02-2012.png",
+    "splitX": 106,
+    "splitY": 40
+  },
+  "board_shroom": {
+    "path": "assets/boards/106x58/board_shroom.png",
+    "splitX": 106,
+    "splitY": 58
+  },
+  "2015_03_air4_board_rare_2": {
+    "path": "assets/boards/107x162/2015_03_air4_board_rare_2.png",
+    "splitX": 107,
+    "splitY": 162
+  },
+  "2016_10_board_pretzel_rare": {
+    "path": "assets/boards/108x74/2016_10_board_pretzel_rare.png",
+    "splitX": 108,
+    "splitY": 74
+  },
+  "board-cityscape-08-2010_rev0111": {
+    "path": "assets/boards/110x100/board-cityscape-08-2010_rev0111.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-iceandfish-12-2010_rev0111": {
+    "path": "assets/boards/110x100/board-iceandfish-12-2010_rev0111.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-piano-02-2012": {
+    "path": "assets/boards/110x100/board-piano-02-2012.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-pocketwatch-07-2010_rev0111": {
+    "path": "assets/boards/110x100/board-pocketwatch-07-2010_rev0111.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-singingbirds-01-2011": {
+    "path": "assets/boards/110x100/board-singingbirds-01-2011.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-submarine-08-2010": {
+    "path": "assets/boards/110x100/board-submarine-08-2010.png",
+    "splitX": 110,
+    "splitY": 100
+  },
+  "board-sunflower-11-2010_rev0111": {
+    "path": "assets/boards/110x110/board-sunflower-11-2010_rev0111.png",
+    "splitX": 110,
+    "splitY": 110
+  },
+  "board-ani-barn-02-2011": {
+    "path": "assets/boards/110x120/board-ani-barn-02-2011.png",
+    "splitX": 110,
+    "splitY": 120
+  },
+  "board-ani-mintbarn-02-2011": {
+    "path": "assets/boards/110x150/board-ani-mintbarn-02-2011.png",
+    "splitX": 110,
+    "splitY": 150
+  },
+  "board-bookbag-09-2011": {
+    "path": "assets/boards/110x150/board-bookbag-09-2011.png",
+    "splitX": 110,
+    "splitY": 150
+  },
+  "board-checkercat-10-2011": {
+    "path": "assets/boards/110x160/board-checkercat-10-2011.png",
+    "splitX": 110,
+    "splitY": 160
+  },
+  "board-checkerdog-10-2011": {
+    "path": "assets/boards/110x160/board-checkerdog-10-2011.png",
+    "splitX": 110,
+    "splitY": 160
+  },
+  "board-easter-04-2011": {
+    "path": "assets/boards/110x160/board-easter-04-2011.png",
+    "splitX": 110,
+    "splitY": 160
+  },
+  "2014_12_bingo_board": {
+    "path": "assets/boards/110x41/2014_12_bingo_board.png",
+    "splitX": 110,
+    "splitY": 41
+  },
+  "2016_06_board_4july": {
+    "path": "assets/boards/110x50/2016_06_board_4july.png",
+    "splitX": 110,
+    "splitY": 50
+  },
+  "board-magneticboardr-3-2011": {
+    "path": "assets/boards/110x50/board-magneticboardr-3-2011.png",
+    "splitX": 110,
+    "splitY": 50
+  },
+  "board-michellescar-11-2011": {
+    "path": "assets/boards/110x70/board-michellescar-11-2011.png",
+    "splitX": 110,
+    "splitY": 70
+  },
+  "board-cornicupia-11-2012": {
+    "path": "assets/boards/110x74/board-cornicupia-11-2012.png",
+    "splitX": 110,
+    "splitY": 74
+  },
+  "board-dinner-11-2012": {
+    "path": "assets/boards/110x74/board-dinner-11-2012.png",
+    "splitX": 110,
+    "splitY": 74
+  },
+  "board-audrey-02-2011": {
+    "path": "assets/boards/110x75/board-audrey-02-2011.png",
+    "splitX": 110,
+    "splitY": 75
+  },
+  "board-sandcastle-06-2012": {
+    "path": "assets/boards/110x78/board-sandcastle-06-2012.png",
+    "splitX": 110,
+    "splitY": 78
+  },
+  "board-sandcastlerc-04-2013": {
+    "path": "assets/boards/110x78/board-sandcastlerc-04-2013.png",
+    "splitX": 110,
+    "splitY": 78
+  },
+  "board-chessprizegirl-09-2011": {
+    "path": "assets/boards/111x114/board-chessprizegirl-09-2011.png",
+    "splitX": 111,
+    "splitY": 114
+  },
+  "board_duckie2": {
+    "path": "assets/boards/111x72/board_duckie2.png",
+    "splitX": 111,
+    "splitY": 72
+  },
+  "board-pianokeys-08-2010_rev0111": {
+    "path": "assets/boards/112x60/board-pianokeys-08-2010_rev0111.png",
+    "splitX": 112,
+    "splitY": 60
+  },
+  "board-boxing-04-2010": {
+    "path": "assets/boards/112x72/board-boxing-04-2010.png",
+    "splitX": 112,
+    "splitY": 72
+  },
+  "board-sleigh-12-2009": {
+    "path": "assets/boards/112x72/board-sleigh-12-2009.png",
+    "splitX": 112,
+    "splitY": 72
+  },
+  "board_ship": {
+    "path": "assets/boards/112x72/board_ship.png",
+    "splitX": 112,
+    "splitY": 72
+  },
+  "board-city-12-2012": {
+    "path": "assets/boards/114x101/board-city-12-2012.png",
+    "splitX": 114,
+    "splitY": 101
+  },
+  "board-podium-08-2012": {
+    "path": "assets/boards/114x112/board-podium-08-2012.png",
+    "splitX": 114,
+    "splitY": 112
+  },
+  "board-t-rex-11-2011": {
+    "path": "assets/boards/114x112/board-t-rex-11-2011.png",
+    "splitX": 114,
+    "splitY": 112
+  },
+  "board-trampoline-08-2012": {
+    "path": "assets/boards/114x112/board-trampoline-08-2012.png",
+    "splitX": 114,
+    "splitY": 112
+  },
+  "board-trampoline-11-2011": {
+    "path": "assets/boards/114x112/board-trampoline-11-2011.png",
+    "splitX": 114,
+    "splitY": 112
+  },
+  "board-dolphin-12-2011": {
+    "path": "assets/boards/114x181/board-dolphin-12-2011.png",
+    "splitX": 114,
+    "splitY": 181
+  },
+  "board-broom-10-2011": {
+    "path": "assets/boards/114x33/board-broom-10-2011.png",
+    "splitX": 114,
+    "splitY": 33
+  },
+  "board_mardigras-03-2011": {
+    "path": "assets/boards/114x54/board_mardigras-03-2011.png",
+    "splitX": 114,
+    "splitY": 54
+  },
+  "board-icerock-07-2011": {
+    "path": "assets/boards/115x104/board-icerock-07-2011.png",
+    "splitX": 115,
+    "splitY": 104
+  },
+  "board_broom": {
+    "path": "assets/boards/115x48/board_broom.png",
+    "splitX": 115,
+    "splitY": 48
+  },
+  "board_egg": {
+    "path": "assets/boards/115x48/board_egg.png",
+    "splitX": 115,
+    "splitY": 48
+  },
+  "board-chalk-09-2011": {
+    "path": "assets/boards/115x59/board-chalk-09-2011.png",
+    "splitX": 115,
+    "splitY": 59
+  },
+  "board-chalkblue-08-2011": {
+    "path": "assets/boards/115x59/board-chalkblue-08-2011.png",
+    "splitX": 115,
+    "splitY": 59
+  },
+  "board-chalkgreen-09-2011": {
+    "path": "assets/boards/115x59/board-chalkgreen-09-2011.png",
+    "splitX": 115,
+    "splitY": 59
+  },
+  "board-chalkred-09-2011": {
+    "path": "assets/boards/115x59/board-chalkred-09-2011.png",
+    "splitX": 115,
+    "splitY": 59
+  },
+  "board-candy-12-2011": {
+    "path": "assets/boards/116x26/board-candy-12-2011.png",
+    "splitX": 116,
+    "splitY": 26
+  },
+  "board-bigbird-02-2012": {
+    "path": "assets/boards/118x129/board-bigbird-02-2012.png",
+    "splitX": 118,
+    "splitY": 129
+  },
+  "board-stonebridge-02-2012": {
+    "path": "assets/boards/118x80/board-stonebridge-02-2012.png",
+    "splitX": 118,
+    "splitY": 80
+  },
+  "board-teacup-02-2013": {
+    "path": "assets/boards/119x150/board-teacup-02-2013.png",
+    "splitX": 119,
+    "splitY": 150
+  },
+  "download": {
+    "path": "assets/boards/119x150/download.png",
+    "splitX": 119,
+    "splitY": 150
+  },
+  "board-appgreen-03-2013": {
+    "path": "assets/boards/120x100/board-appgreen-03-2013.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-applebasket-11-2010_rev0111": {
+    "path": "assets/boards/120x100/board-applebasket-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-applesgreen-11-2010_rev0111": {
+    "path": "assets/boards/120x100/board-applesgreen-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-brownhorse-08-2010_rev0111": {
+    "path": "assets/boards/120x100/board-brownhorse-08-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-golf-04-2010_rev0111": {
+    "path": "assets/boards/120x100/board-golf-04-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-knightshorse-04-2011": {
+    "path": "assets/boards/120x100/board-knightshorse-04-2011.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-lockedwhitehorse-04-2011": {
+    "path": "assets/boards/120x100/board-lockedwhitehorse-04-2011.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-panda-12-2010_rev0111": {
+    "path": "assets/boards/120x100/board-panda-12-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-popcorn-02-3011": {
+    "path": "assets/boards/120x100/board-popcorn-02-3011.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-puppy-09-2009_rev0111": {
+    "path": "assets/boards/120x100/board-puppy-09-2009_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-running-03-2011": {
+    "path": "assets/boards/120x100/board-running-03-2011.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-treasurechest-08-2011": {
+    "path": "assets/boards/120x100/board-treasurechest-08-2011.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "board-whitehorse-08-2010_rev0111": {
+    "path": "assets/boards/120x100/board-whitehorse-08-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 100
+  },
+  "2015_12_board_february_pm_1": {
+    "path": "assets/boards/120x110/2015_12_board_february_pm_1.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "2015_12_board_february_pm_2": {
+    "path": "assets/boards/120x110/2015_12_board_february_pm_2.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "board-genielamp-03-2010_rev0111": {
+    "path": "assets/boards/120x110/board-genielamp-03-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "board-jellypetboard-09-2010_rev0111": {
+    "path": "assets/boards/120x110/board-jellypetboard-09-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "board-pet-rocki-boy-06-2011": {
+    "path": "assets/boards/120x110/board-pet-rocki-boy-06-2011.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "board-pet-rocki-girl-06-2011": {
+    "path": "assets/boards/120x110/board-pet-rocki-girl-06-2011.png",
+    "splitX": 120,
+    "splitY": 110
+  },
+  "board-angel-12-2013": {
+    "path": "assets/boards/120x120/board-angel-12-2013.png",
+    "splitX": 120,
+    "splitY": 120
+  },
+  "board-roborunner-12-2013": {
+    "path": "assets/boards/120x120/board-roborunner-12-2013.png",
+    "splitX": 120,
+    "splitY": 120
+  },
+  "board-baseball-02-2011": {
+    "path": "assets/boards/120x130/board-baseball-02-2011.png",
+    "splitX": 120,
+    "splitY": 130
+  },
+  "board-jaguar-12-2012": {
+    "path": "assets/boards/120x135/board-jaguar-12-2012.png",
+    "splitX": 120,
+    "splitY": 135
+  },
+  "2016_06_board_boutique4_patronastowers": {
+    "path": "assets/boards/120x140/2016_06_board_boutique4_patronastowers.png",
+    "splitX": 120,
+    "splitY": 140
+  },
+  "board-aircraft-05-2010": {
+    "path": "assets/boards/120x150/board-aircraft-05-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-alarmclock-09-2010": {
+    "path": "assets/boards/120x150/board-alarmclock-09-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-animatedshoe-11-2010": {
+    "path": "assets/boards/120x150/board-animatedshoe-11-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-basketb-03-2011": {
+    "path": "assets/boards/120x150/board-basketb-03-2011.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-bookrare-07-2010": {
+    "path": "assets/boards/120x150/board-bookrare-07-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-colummnboard-01-2011": {
+    "path": "assets/boards/120x150/board-colummnboard-01-2011.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-goldcoin-03-2010": {
+    "path": "assets/boards/120x150/board-goldcoin-03-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-gumballs-08-2010": {
+    "path": "assets/boards/120x150/board-gumballs-08-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-holiday-12-2010": {
+    "path": "assets/boards/120x150/board-holiday-12-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-magicpot-10-2010_rev0111": {
+    "path": "assets/boards/120x150/board-magicpot-10-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-majorleager-09-2011": {
+    "path": "assets/boards/120x150/board-majorleager-09-2011.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-roketboard-07-2009": {
+    "path": "assets/boards/120x150/board-roketboard-07-2009.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-stage-08-2009": {
+    "path": "assets/boards/120x150/board-stage-08-2009.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-superrarepet-08-2010_rev0111": {
+    "path": "assets/boards/120x150/board-superrarepet-08-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-surf-08-2009": {
+    "path": "assets/boards/120x150/board-surf-08-2009.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-traffic-06-2010": {
+    "path": "assets/boards/120x150/board-traffic-06-2010.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board_schooloutrare_0623": {
+    "path": "assets/boards/120x150/board_schooloutrare_0623.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "world_board": {
+    "path": "assets/boards/120x150/world_board.png",
+    "splitX": 120,
+    "splitY": 150
+  },
+  "board-fireextinguisher-08-2010": {
+    "path": "assets/boards/120x163/board-fireextinguisher-08-2010.png",
+    "splitX": 120,
+    "splitY": 163
+  },
+  "board-music-12-2011": {
+    "path": "assets/boards/120x200/board-music-12-2011.png",
+    "splitX": 120,
+    "splitY": 200
+  },
+  "board-michaelscar-11-2011": {
+    "path": "assets/boards/120x41/board-michaelscar-11-2011.png",
+    "splitX": 120,
+    "splitY": 41
+  },
+  "board-sportscar-10-2011": {
+    "path": "assets/boards/120x41/board-sportscar-10-2011.png",
+    "splitX": 120,
+    "splitY": 41
+  },
+  "board-sportscarcr-04-2013": {
+    "path": "assets/boards/120x41/board-sportscarcr-04-2013.png",
+    "splitX": 120,
+    "splitY": 41
+  },
+  "board_porsche-05-2012": {
+    "path": "assets/boards/120x41/board_porsche-05-2012.png",
+    "splitX": 120,
+    "splitY": 41
+  },
+  "board-fairy-11-2012": {
+    "path": "assets/boards/120x42/board-fairy-11-2012.png",
+    "splitX": 120,
+    "splitY": 42
+  },
+  "board-jackfrost-11-2012": {
+    "path": "assets/boards/120x42/board-jackfrost-11-2012.png",
+    "splitX": 120,
+    "splitY": 42
+  },
+  "board-sandman-11-2012": {
+    "path": "assets/boards/120x42/board-sandman-11-2012.png",
+    "splitX": 120,
+    "splitY": 42
+  },
+  "board-greencoin-03-2013": {
+    "path": "assets/boards/120x50/board-greencoin-03-2013.png",
+    "splitX": 120,
+    "splitY": 50
+  },
+  "board-picnic-03-2012": {
+    "path": "assets/boards/120x52/board-picnic-03-2012.png",
+    "splitX": 120,
+    "splitY": 52
+  },
+  "board-baseballfield-03-2012": {
+    "path": "assets/boards/120x54/board-baseballfield-03-2012.png",
+    "splitX": 120,
+    "splitY": 54
+  },
+  "board-flowerbees-03-2012": {
+    "path": "assets/boards/120x59/board-flowerbees-03-2012.png",
+    "splitX": 120,
+    "splitY": 59
+  },
+  "board-angeljp-04-2010": {
+    "path": "assets/boards/120x60/board-angeljp-04-2010.png",
+    "splitX": 120,
+    "splitY": 60
+  },
+  "board-chocobear-02-2010_rev0111": {
+    "path": "assets/boards/120x60/board-chocobear-02-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 60
+  },
+  "board-log-11-2009_rev0111": {
+    "path": "assets/boards/120x60/board-log-11-2009_rev0111.png",
+    "splitX": 120,
+    "splitY": 60
+  },
+  "board-ornaments-12-2013": {
+    "path": "assets/boards/120x65/board-ornaments-12-2013.png",
+    "splitX": 120,
+    "splitY": 65
+  },
+  "board-lawnmower-03-2012": {
+    "path": "assets/boards/120x66/board-lawnmower-03-2012.png",
+    "splitX": 120,
+    "splitY": 66
+  },
+  "board-artists-02-2011": {
+    "path": "assets/boards/120x70/board-artists-02-2011.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-dragon-01-2010_rev0111": {
+    "path": "assets/boards/120x70/board-dragon-01-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-frogprince-09-2010": {
+    "path": "assets/boards/120x70/board-frogprince-09-2010.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-heardrare-02-2011": {
+    "path": "assets/boards/120x70/board-heardrare-02-2011.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-hovercraft-12-2010": {
+    "path": "assets/boards/120x70/board-hovercraft-12-2010.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-robot-11-2010_rev0111": {
+    "path": "assets/boards/120x70/board-robot-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-schoolbus-09-2010_rev0111": {
+    "path": "assets/boards/120x70/board-schoolbus-09-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-vacuumboard-11-2009_rev0111": {
+    "path": "assets/boards/120x70/board-vacuumboard-11-2009_rev0111.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-yellowcar-11-2009_rev0111": {
+    "path": "assets/boards/120x70/board-yellowcar-11-2009_rev0111.png",
+    "splitX": 120,
+    "splitY": 70
+  },
+  "board-panther-12-2012": {
+    "path": "assets/boards/120x74/board-panther-12-2012.png",
+    "splitX": 120,
+    "splitY": 74
+  },
+  "board-mission2-09-2010_rev0111": {
+    "path": "assets/boards/120x75/board-mission2-09-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 75
+  },
+  "board-canoe-11-2010_rev0111": {
+    "path": "assets/boards/120x80/board-canoe-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-cloud-03-2011": {
+    "path": "assets/boards/120x80/board-cloud-03-2011.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-cornicupia-11-2010_rev0111": {
+    "path": "assets/boards/120x80/board-cornicupia-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-flyingpig-08-2010_rev0111": {
+    "path": "assets/boards/120x80/board-flyingpig-08-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-pumpkinpie-11-2010_rev0111": {
+    "path": "assets/boards/120x80/board-pumpkinpie-11-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-spashcrab-07-2010_rev0111": {
+    "path": "assets/boards/120x80/board-spashcrab-07-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "board-stpatrickcoin-03-2011": {
+    "path": "assets/boards/120x80/board-stpatrickcoin-03-2011.png",
+    "splitX": 120,
+    "splitY": 80
+  },
+  "turkeyboard-11-2013": {
+    "path": "assets/boards/120x85/turkeyboard-11-2013.png",
+    "splitX": 120,
+    "splitY": 85
+  },
+  "board-seawed-01-2011": {
+    "path": "assets/boards/120x88/board-seawed-01-2011.png",
+    "splitX": 120,
+    "splitY": 88
+  },
+  "2015_01_board_rare_1": {
+    "path": "assets/boards/120x90/2015_01_board_rare_1.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-candle-12-2010_rev0111": {
+    "path": "assets/boards/120x90/board-candle-12-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-fighterjet-09-2010_rev0111": {
+    "path": "assets/boards/120x90/board-fighterjet-09-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-ghost-10-2010_rev0111": {
+    "path": "assets/boards/120x90/board-ghost-10-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-pmgirl-09-2011": {
+    "path": "assets/boards/120x90/board-pmgirl-09-2011.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-tombstone-10-2010_rev0111": {
+    "path": "assets/boards/120x90/board-tombstone-10-2010_rev0111.png",
+    "splitX": 120,
+    "splitY": 90
+  },
+  "board-pmboy-09-2011": {
+    "path": "assets/boards/120x95/board-pmboy-09-2011.png",
+    "splitX": 120,
+    "splitY": 95
+  },
+  "2016_05_air4_board_rare": {
+    "path": "assets/boards/121x183/2016_05_air4_board_rare.png",
+    "splitX": 121,
+    "splitY": 183
+  },
+  "board-spacepod-08-2011": {
+    "path": "assets/boards/122x114/board-spacepod-08-2011.png",
+    "splitX": 122,
+    "splitY": 114
+  },
+  "2015_02_board_nm_1": {
+    "path": "assets/boards/123x88/2015_02_board_nm_1.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2016_02_board_valentinesday_prize_1": {
+    "path": "assets/boards/123x88/2016_02_board_valentinesday_prize_1.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2016_02_board_valentinesday_prize_2": {
+    "path": "assets/boards/123x88/2016_02_board_valentinesday_prize_2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2016_03_board_rare": {
+    "path": "assets/boards/123x88/2016_03_board_rare.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2016_05_board_may_nm": {
+    "path": "assets/boards/123x88/2016_05_board_may_nm.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2016_06_board_pizzaparty_reward": {
+    "path": "assets/boards/123x88/2016_06_board_pizzaparty_reward.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2017_04_board_loco3": {
+    "path": "assets/boards/123x88/2017_04_board_loco3.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2017_04_board_prom_rg2": {
+    "path": "assets/boards/123x88/2017_04_board_prom_rg2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2017_11_board_loco1": {
+    "path": "assets/boards/123x88/2017_11_board_loco1.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "2017_12_board_cookiejar": {
+    "path": "assets/boards/123x88/2017_12_board_cookiejar.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-aceofspade-07-2010": {
+    "path": "assets/boards/123x88/board-aceofspade-07-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-asteroids-08-2012": {
+    "path": "assets/boards/123x88/board-asteroids-08-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-bee-11-2009": {
+    "path": "assets/boards/123x88/board-bee-11-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-bellcookie-12-2012": {
+    "path": "assets/boards/123x88/board-bellcookie-12-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-bigstar-02-2011": {
+    "path": "assets/boards/123x88/board-bigstar-02-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-brown-11-2010": {
+    "path": "assets/boards/123x88/board-brown-11-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-candycorn-10-2010": {
+    "path": "assets/boards/123x88/board-candycorn-10-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-carnigame-04-2013": {
+    "path": "assets/boards/123x88/board-carnigame-04-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-checker-10-2009": {
+    "path": "assets/boards/123x88/board-checker-10-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-cheeseburger-01-2011": {
+    "path": "assets/boards/123x88/board-cheeseburger-01-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-chocolate-02-2010": {
+    "path": "assets/boards/123x88/board-chocolate-02-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-circuspodium-3-2011": {
+    "path": "assets/boards/123x88/board-circuspodium-3-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-coconut-07-2012": {
+    "path": "assets/boards/123x88/board-coconut-07-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-crown-09-2010": {
+    "path": "assets/boards/123x88/board-crown-09-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-cruisenmboard-07-2012": {
+    "path": "assets/boards/123x88/board-cruisenmboard-07-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-cruisesurfboard-07-2012": {
+    "path": "assets/boards/123x88/board-cruisesurfboard-07-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-cruisesurfboarda-07-2012": {
+    "path": "assets/boards/123x88/board-cruisesurfboarda-07-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-green-10-2009": {
+    "path": "assets/boards/123x88/board-green-10-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-greentoothbrush-08-2010": {
+    "path": "assets/boards/123x88/board-greentoothbrush-08-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-hattercheck-07-2010": {
+    "path": "assets/boards/123x88/board-hattercheck-07-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-horn-10-2010": {
+    "path": "assets/boards/123x88/board-horn-10-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-hotsparksurfboard": {
+    "path": "assets/boards/123x88/board-hotsparksurfboard.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-icy-06-2011": {
+    "path": "assets/boards/123x88/board-icy-06-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-kidsnm-03-2013": {
+    "path": "assets/boards/123x88/board-kidsnm-03-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-lunchtray-11-2011": {
+    "path": "assets/boards/123x88/board-lunchtray-11-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-lunchtrayrc-11-2011": {
+    "path": "assets/boards/123x88/board-lunchtrayrc-11-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-mini-04-2010": {
+    "path": "assets/boards/123x88/board-mini-04-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonblueorange-2-2012": {
+    "path": "assets/boards/123x88/board-nonblueorange-2-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonbluestar-02-2011": {
+    "path": "assets/boards/123x88/board-nonbluestar-02-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonm-07-2011": {
+    "path": "assets/boards/123x88/board-nonm-07-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-01-2011": {
+    "path": "assets/boards/123x88/board-nonmem-01-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-01-2013": {
+    "path": "assets/boards/123x88/board-nonmem-01-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-02-2013": {
+    "path": "assets/boards/123x88/board-nonmem-02-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-03-2012": {
+    "path": "assets/boards/123x88/board-nonmem-03-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-03-2013": {
+    "path": "assets/boards/123x88/board-nonmem-03-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-04-2012": {
+    "path": "assets/boards/123x88/board-nonmem-04-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-05-2012": {
+    "path": "assets/boards/123x88/board-nonmem-05-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-05-2013": {
+    "path": "assets/boards/123x88/board-nonmem-05-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-06-2012": {
+    "path": "assets/boards/123x88/board-nonmem-06-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-06-2013": {
+    "path": "assets/boards/123x88/board-nonmem-06-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-07-2012": {
+    "path": "assets/boards/123x88/board-nonmem-07-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-07-2013": {
+    "path": "assets/boards/123x88/board-nonmem-07-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-08-2011": {
+    "path": "assets/boards/123x88/board-nonmem-08-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-08-2012": {
+    "path": "assets/boards/123x88/board-nonmem-08-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-08-2013": {
+    "path": "assets/boards/123x88/board-nonmem-08-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-09-2012": {
+    "path": "assets/boards/123x88/board-nonmem-09-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-09-2013": {
+    "path": "assets/boards/123x88/board-nonmem-09-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-10-2011": {
+    "path": "assets/boards/123x88/board-nonmem-10-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-10-2012": {
+    "path": "assets/boards/123x88/board-nonmem-10-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-10-2013": {
+    "path": "assets/boards/123x88/board-nonmem-10-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-11-2011": {
+    "path": "assets/boards/123x88/board-nonmem-11-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-12-2010": {
+    "path": "assets/boards/123x88/board-nonmem-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmem-12-2012": {
+    "path": "assets/boards/123x88/board-nonmem-12-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmember-04-2013": {
+    "path": "assets/boards/123x88/board-nonmember-04-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmemcircus-03-2011": {
+    "path": "assets/boards/123x88/board-nonmemcircus-03-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmemgp-03-2013": {
+    "path": "assets/boards/123x88/board-nonmemgp-03-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmemgreen-09-2011": {
+    "path": "assets/boards/123x88/board-nonmemgreen-09-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nonmsnowman-01-2012": {
+    "path": "assets/boards/123x88/board-nonmsnowman-01-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-nons-12-2011": {
+    "path": "assets/boards/123x88/board-nons-12-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-oceanicsurfboard": {
+    "path": "assets/boards/123x88/board-oceanicsurfboard.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-orange-08-2009": {
+    "path": "assets/boards/123x88/board-orange-08-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-pattern-07-2009": {
+    "path": "assets/boards/123x88/board-pattern-07-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-peppermint-12-2009": {
+    "path": "assets/boards/123x88/board-peppermint-12-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-piano-09-2009": {
+    "path": "assets/boards/123x88/board-piano-09-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-picnichunt-05-2013": {
+    "path": "assets/boards/123x88/board-picnichunt-05-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-pinkcake-12-2010": {
+    "path": "assets/boards/123x88/board-pinkcake-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-pinkfloralsurf-06-2013": {
+    "path": "assets/boards/123x88/board-pinkfloralsurf-06-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-plainorange-05-2010": {
+    "path": "assets/boards/123x88/board-plainorange-05-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-platform-08-2011": {
+    "path": "assets/boards/123x88/board-platform-08-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-pumpkin-10-2009": {
+    "path": "assets/boards/123x88/board-pumpkin-10-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-purpflamesurf-06-2013": {
+    "path": "assets/boards/123x88/board-purpflamesurf-06-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-purplepump-05-2013": {
+    "path": "assets/boards/123x88/board-purplepump-05-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-red-11-2009": {
+    "path": "assets/boards/123x88/board-red-11-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-redbluespeed-08-2009": {
+    "path": "assets/boards/123x88/board-redbluespeed-08-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-risingsunsurfboard": {
+    "path": "assets/boards/123x88/board-risingsunsurfboard.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-sharksurf-06-2013": {
+    "path": "assets/boards/123x88/board-sharksurf-06-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-simplebw-12-2010": {
+    "path": "assets/boards/123x88/board-simplebw-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-skyblue-04-2010": {
+    "path": "assets/boards/123x88/board-skyblue-04-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-smileyface-05-2011": {
+    "path": "assets/boards/123x88/board-smileyface-05-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-sock-10-2012": {
+    "path": "assets/boards/123x88/board-sock-10-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-springgreen-04-2011": {
+    "path": "assets/boards/123x88/board-springgreen-04-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-star-12-2009": {
+    "path": "assets/boards/123x88/board-star-12-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-starcookie-12-2012": {
+    "path": "assets/boards/123x88/board-starcookie-12-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-stpatricksyellow-03-2010": {
+    "path": "assets/boards/123x88/board-stpatricksyellow-03-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-toothbrush-08-2010": {
+    "path": "assets/boards/123x88/board-toothbrush-08-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-trafficnonmember-06-2010": {
+    "path": "assets/boards/123x88/board-trafficnonmember-06-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-treasurechest-01-2011": {
+    "path": "assets/boards/123x88/board-treasurechest-01-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-treasurechestgr-01-2011": {
+    "path": "assets/boards/123x88/board-treasurechestgr-01-2011.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-turkey-11-2010": {
+    "path": "assets/boards/123x88/board-turkey-11-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-turkey-ecoins-11-2010": {
+    "path": "assets/boards/123x88/board-turkey-ecoins-11-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-turqouisesurf-06-2013": {
+    "path": "assets/boards/123x88/board-turqouisesurf-06-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-vday-02-2010": {
+    "path": "assets/boards/123x88/board-vday-02-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-wafer-08-2010": {
+    "path": "assets/boards/123x88/board-wafer-08-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-waffle-06-2010": {
+    "path": "assets/boards/123x88/board-waffle-06-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-wand-12-2010": {
+    "path": "assets/boards/123x88/board-wand-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-watermelon-05-2013": {
+    "path": "assets/boards/123x88/board-watermelon-05-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-woodfloor-12-2013": {
+    "path": "assets/boards/123x88/board-woodfloor-12-2013.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-woodtoy-11-2009": {
+    "path": "assets/boards/123x88/board-woodtoy-11-2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_blackblue2": {
+    "path": "assets/boards/123x88/board_blackblue2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_blackred2": {
+    "path": "assets/boards/123x88/board_blackred2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_bluecraft": {
+    "path": "assets/boards/123x88/board_bluecraft.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_blueufo": {
+    "path": "assets/boards/123x88/board_blueufo.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_bluewhite2": {
+    "path": "assets/boards/123x88/board_bluewhite2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_bubble2": {
+    "path": "assets/boards/123x88/board_bubble2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_clover-03-2010": {
+    "path": "assets/boards/123x88/board_clover-03-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_dance_08_2009": {
+    "path": "assets/boards/123x88/board_dance_08_2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_donut": {
+    "path": "assets/boards/123x88/board_donut.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_empty_09_2014": {
+    "path": "assets/boards/123x88/board_empty_09_2014.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_feather": {
+    "path": "assets/boards/123x88/board_feather.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_giantclove-03-2010": {
+    "path": "assets/boards/123x88/board_giantclove-03-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_gold_0615": {
+    "path": "assets/boards/123x88/board_gold_0615.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_greendisk": {
+    "path": "assets/boards/123x88/board_greendisk.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_guitar": {
+    "path": "assets/boards/123x88/board_guitar.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_heart2": {
+    "path": "assets/boards/123x88/board_heart2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_ice": {
+    "path": "assets/boards/123x88/board_ice.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_ice2": {
+    "path": "assets/boards/123x88/board_ice2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_jump2": {
+    "path": "assets/boards/123x88/board_jump2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_lotus_leef_board": {
+    "path": "assets/boards/123x88/board_lotus_leef_board.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_paperairplane": {
+    "path": "assets/boards/123x88/board_paperairplane.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_patty2009": {
+    "path": "assets/boards/123x88/board_patty2009.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_pinkcraft": {
+    "path": "assets/boards/123x88/board_pinkcraft.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_pinkufo": {
+    "path": "assets/boards/123x88/board_pinkufo.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_pizza": {
+    "path": "assets/boards/123x88/board_pizza.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_rareblackguitar": {
+    "path": "assets/boards/123x88/board_rareblackguitar.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_rarepinata": {
+    "path": "assets/boards/123x88/board_rarepinata.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_snowflake-12-2010": {
+    "path": "assets/boards/123x88/board_snowflake-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_snowflakesale-12-2010": {
+    "path": "assets/boards/123x88/board_snowflakesale-12-2010.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_snowing-11-2012": {
+    "path": "assets/boards/123x88/board_snowing-11-2012.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_spaceship": {
+    "path": "assets/boards/123x88/board_spaceship.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_speedy_rare_0515": {
+    "path": "assets/boards/123x88/board_speedy_rare_0515.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_startop": {
+    "path": "assets/boards/123x88/board_startop.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_strawberystar": {
+    "path": "assets/boards/123x88/board_strawberystar.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_sunshine2": {
+    "path": "assets/boards/123x88/board_sunshine2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_turtle": {
+    "path": "assets/boards/123x88/board_turtle.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_Violetbatwing": {
+    "path": "assets/boards/123x88/board_Violetbatwing.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_violetgold2": {
+    "path": "assets/boards/123x88/board_violetgold2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_watermelon": {
+    "path": "assets/boards/123x88/board_watermelon.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_whiteorange2": {
+    "path": "assets/boards/123x88/board_whiteorange2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_wooden": {
+    "path": "assets/boards/123x88/board_wooden.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board_yellowblue2": {
+    "path": "assets/boards/123x88/board_yellowblue2.png",
+    "splitX": 123,
+    "splitY": 88
+  },
+  "board-dreambox-05-2012": {
+    "path": "assets/boards/125x100/board-dreambox-05-2012.png",
+    "splitX": 125,
+    "splitY": 100
+  },
+  "board-dreamboxrc-04-2013": {
+    "path": "assets/boards/125x100/board-dreamboxrc-04-2013.png",
+    "splitX": 125,
+    "splitY": 100
+  },
+  "board-masquerade-02-2012": {
+    "path": "assets/boards/125x100/board-masquerade-02-2012.png",
+    "splitX": 125,
+    "splitY": 100
+  },
+  "board-pinkscooter-05-2011": {
+    "path": "assets/boards/125x100/board-pinkscooter-05-2011.png",
+    "splitX": 125,
+    "splitY": 100
+  },
+  "board-peacock-02-2012": {
+    "path": "assets/boards/125x112/board-peacock-02-2012.png",
+    "splitX": 125,
+    "splitY": 112
+  },
+  "board-magicstage-05-2012": {
+    "path": "assets/boards/125x125/board-magicstage-05-2012.png",
+    "splitX": 125,
+    "splitY": 125
+  },
+  "board-chessprizeboy-09-2011": {
+    "path": "assets/boards/125x143/board-chessprizeboy-09-2011.png",
+    "splitX": 125,
+    "splitY": 143
+  },
+  "board-tractor-10-2011": {
+    "path": "assets/boards/125x164/board-tractor-10-2011.png",
+    "splitX": 125,
+    "splitY": 164
+  },
+  "board-balloonbasket-06-2012": {
+    "path": "assets/boards/125x200/board-balloonbasket-06-2012.png",
+    "splitX": 125,
+    "splitY": 200
+  },
+  "board-colorspin-05-2011": {
+    "path": "assets/boards/125x60/board-colorspin-05-2011.png",
+    "splitX": 125,
+    "splitY": 60
+  },
+  "board-bluescooter-05-2011": {
+    "path": "assets/boards/125x75/board-bluescooter-05-2011.png",
+    "splitX": 125,
+    "splitY": 75
+  },
+  "board-splashrock-05-2012": {
+    "path": "assets/boards/125x83/board-splashrock-05-2012.png",
+    "splitX": 125,
+    "splitY": 83
+  },
+  "board_pumpkinplatypus-10-2012": {
+    "path": "assets/boards/126x45/board_pumpkinplatypus-10-2012.png",
+    "splitX": 126,
+    "splitY": 45
+  },
+  "board-chessboard-09-2011": {
+    "path": "assets/boards/126x66/board-chessboard-09-2011.png",
+    "splitX": 126,
+    "splitY": 66
+  },
+  "board_pmgift_06_2014": {
+    "path": "assets/boards/127x121/board_pmgift_06_2014.png",
+    "splitX": 127,
+    "splitY": 121
+  },
+  "board-cruiseship-07-2012": {
+    "path": "assets/boards/128x100/board-cruiseship-07-2012.png",
+    "splitX": 128,
+    "splitY": 100
+  },
+  "board-cruiseshiprc-07-2013": {
+    "path": "assets/boards/128x100/board-cruiseshiprc-07-2013.png",
+    "splitX": 128,
+    "splitY": 100
+  },
+  "board-reindeer-12-2011": {
+    "path": "assets/boards/129x100/board-reindeer-12-2011.png",
+    "splitX": 129,
+    "splitY": 100
+  },
+  "board-hamsterball-09-2011": {
+    "path": "assets/boards/129x129/board-hamsterball-09-2011.png",
+    "splitX": 129,
+    "splitY": 129
+  },
+  "board-horseshoe-03-2011": {
+    "path": "assets/boards/129x150/board-horseshoe-03-2011.png",
+    "splitX": 129,
+    "splitY": 150
+  },
+  "board-horseshoe2-03-2011": {
+    "path": "assets/boards/129x150/board-horseshoe2-03-2011.png",
+    "splitX": 129,
+    "splitY": 150
+  },
+  "board-seashell-05-2010": {
+    "path": "assets/boards/129x150/board-seashell-05-2010.png",
+    "splitX": 129,
+    "splitY": 150
+  },
+  "board-sandwich-08-2010_rev0111": {
+    "path": "assets/boards/129x70/board-sandwich-08-2010_rev0111.png",
+    "splitX": 129,
+    "splitY": 70
+  },
+  "board-redcarpet-03-2012": {
+    "path": "assets/boards/130x111/board-redcarpet-03-2012.png",
+    "splitX": 130,
+    "splitY": 111
+  },
+  "board-grill-06-2012": {
+    "path": "assets/boards/130x113/board-grill-06-2012.png",
+    "splitX": 130,
+    "splitY": 113
+  },
+  "board-pirateship-05-2012": {
+    "path": "assets/boards/130x139/board-pirateship-05-2012.png",
+    "splitX": 130,
+    "splitY": 139
+  },
+  "board-beachchair-05-2012": {
+    "path": "assets/boards/130x140/board-beachchair-05-2012.png",
+    "splitX": 130,
+    "splitY": 140
+  },
+  "board-wave-05-2012": {
+    "path": "assets/boards/130x140/board-wave-05-2012.png",
+    "splitX": 130,
+    "splitY": 140
+  },
+  "board-jesterscar-11-2011": {
+    "path": "assets/boards/130x61/board-jesterscar-11-2011.png",
+    "splitX": 130,
+    "splitY": 61
+  },
+  "board-dreamcatcher-05-2012": {
+    "path": "assets/boards/130x63/board-dreamcatcher-05-2012.png",
+    "splitX": 130,
+    "splitY": 63
+  },
+  "board-pinklimo-05-2012": {
+    "path": "assets/boards/130x66/board-pinklimo-05-2012.png",
+    "splitX": 130,
+    "splitY": 66
+  },
+  "board-teallimo-06-2012": {
+    "path": "assets/boards/130x66/board-teallimo-06-2012.png",
+    "splitX": 130,
+    "splitY": 66
+  },
+  "2017_04_board_prom_lm2": {
+    "path": "assets/boards/130x70/2017_04_board_prom_lm2.png",
+    "splitX": 130,
+    "splitY": 70
+  },
+  "board-lipstick-01-2011": {
+    "path": "assets/boards/130x75/board-lipstick-01-2011.png",
+    "splitX": 130,
+    "splitY": 75
+  },
+  "board-shurgreen-03-2013": {
+    "path": "assets/boards/130x90/board-shurgreen-03-2013.png",
+    "splitX": 130,
+    "splitY": 90
+  },
+  "board-shurikenblack-1-2011": {
+    "path": "assets/boards/130x90/board-shurikenblack-1-2011.png",
+    "splitX": 130,
+    "splitY": 90
+  },
+  "board-shurikengold-1-2011": {
+    "path": "assets/boards/130x90/board-shurikengold-1-2011.png",
+    "splitX": 130,
+    "splitY": 90
+  },
+  "2016_04_board_pmgift": {
+    "path": "assets/boards/130x93/2016_04_board_pmgift.png",
+    "splitX": 130,
+    "splitY": 93
+  },
+  "board-reddragon-08-2011": {
+    "path": "assets/boards/131x102/board-reddragon-08-2011.png",
+    "splitX": 131,
+    "splitY": 102
+  },
+  "board-flowerpod-04-2011": {
+    "path": "assets/boards/131x205/board-flowerpod-04-2011.png",
+    "splitX": 131,
+    "splitY": 205
+  },
+  "board-marygoroundb-08-2011": {
+    "path": "assets/boards/132x200/board-marygoroundb-08-2011.png",
+    "splitX": 132,
+    "splitY": 200
+  },
+  "board-marygoroundg-08-2011": {
+    "path": "assets/boards/132x200/board-marygoroundg-08-2011.png",
+    "splitX": 132,
+    "splitY": 200
+  },
+  "board-beanstalk": {
+    "path": "assets/boards/133x157/board-beanstalk.png",
+    "splitX": 133,
+    "splitY": 157
+  },
+  "board-safarijeep-08-2011": {
+    "path": "assets/boards/133x157/board-safarijeep-08-2011.png",
+    "splitX": 133,
+    "splitY": 157
+  },
+  "board-roboboard-12-2010_rev0111": {
+    "path": "assets/boards/134x100/board-roboboard-12-2010_rev0111.png",
+    "splitX": 134,
+    "splitY": 100
+  },
+  "board-animals-03-2012": {
+    "path": "assets/boards/134x105/board-animals-03-2012.png",
+    "splitX": 134,
+    "splitY": 105
+  },
+  "2016_06_board_pizzaparty_lm": {
+    "path": "assets/boards/134x167/2016_06_board_pizzaparty_lm.png",
+    "splitX": 134,
+    "splitY": 167
+  },
+  "board-missionstage-2-2012": {
+    "path": "assets/boards/135x70/board-missionstage-2-2012.png",
+    "splitX": 135,
+    "splitY": 70
+  },
+  "board-trendsetter-03-2011": {
+    "path": "assets/boards/135x70/board-trendsetter-03-2011.png",
+    "splitX": 135,
+    "splitY": 70
+  },
+  "board-locked-04-2012": {
+    "path": "assets/boards/136x135/board-locked-04-2012.png",
+    "splitX": 136,
+    "splitY": 135
+  },
+  "board-haystack-11-2012": {
+    "path": "assets/boards/136x90/board-haystack-11-2012.png",
+    "splitX": 136,
+    "splitY": 90
+  },
+  "board-dock-03-2012": {
+    "path": "assets/boards/137x111/board-dock-03-2012.png",
+    "splitX": 137,
+    "splitY": 111
+  },
+  "board-unicornblack-11-2011": {
+    "path": "assets/boards/138x93/board-unicornblack-11-2011.png",
+    "splitX": 138,
+    "splitY": 93
+  },
+  "board-unicornwhite-11-2011": {
+    "path": "assets/boards/138x93/board-unicornwhite-11-2011.png",
+    "splitX": 138,
+    "splitY": 93
+  },
+  "board-daysixprz-04-2013": {
+    "path": "assets/boards/139x90/board-daysixprz-04-2013.png",
+    "splitX": 139,
+    "splitY": 90
+  },
+  "board-kawaiiscar-11-2011": {
+    "path": "assets/boards/139x90/board-kawaiiscar-11-2011.png",
+    "splitX": 139,
+    "splitY": 90
+  },
+  "board-staticscar-11-2011": {
+    "path": "assets/boards/139x90/board-staticscar-11-2011.png",
+    "splitX": 139,
+    "splitY": 90
+  },
+  "board-stellascar-11-2011": {
+    "path": "assets/boards/139x90/board-stellascar-11-2011.png",
+    "splitX": 139,
+    "splitY": 90
+  },
+  "board-secretadv-04-2011": {
+    "path": "assets/boards/140x100/board-secretadv-04-2011.png",
+    "splitX": 140,
+    "splitY": 100
+  },
+  "board-codyship-08-2011": {
+    "path": "assets/boards/140x102/board-codyship-08-2011.png",
+    "splitX": 140,
+    "splitY": 102
+  },
+  "board-clowncar-3-2011": {
+    "path": "assets/boards/140x130/board-clowncar-3-2011.png",
+    "splitX": 140,
+    "splitY": 130
+  },
+  "board-smartcar-04-2012": {
+    "path": "assets/boards/140x138/board-smartcar-04-2012.png",
+    "splitX": 140,
+    "splitY": 138
+  },
+  "2016_04_board_boutique2_cherryblossom": {
+    "path": "assets/boards/140x140/2016_04_board_boutique2_cherryblossom.png",
+    "splitX": 140,
+    "splitY": 140
+  },
+  "board-cruise-08-2012": {
+    "path": "assets/boards/140x160/board-cruise-08-2012.png",
+    "splitX": 140,
+    "splitY": 160
+  },
+  "board-cruiserc-07-2013": {
+    "path": "assets/boards/140x160/board-cruiserc-07-2013.png",
+    "splitX": 140,
+    "splitY": 160
+  },
+  "board-magicmist-06-2011": {
+    "path": "assets/boards/140x50/board-magicmist-06-2011.png",
+    "splitX": 140,
+    "splitY": 50
+  },
+  "board-trophy-08-2011": {
+    "path": "assets/boards/140x66/board-trophy-08-2011.png",
+    "splitX": 140,
+    "splitY": 66
+  },
+  "board-shootingstar-11-2009_rev0111": {
+    "path": "assets/boards/140x70/board-shootingstar-11-2009_rev0111.png",
+    "splitX": 140,
+    "splitY": 70
+  },
+  "board-funcake-04-2013": {
+    "path": "assets/boards/140x80/board-funcake-04-2013.png",
+    "splitX": 140,
+    "splitY": 80
+  },
+  "board-fishbowl-03-2012": {
+    "path": "assets/boards/142x142/board-fishbowl-03-2012.png",
+    "splitX": 142,
+    "splitY": 142
+  },
+  "board-newyears-12-2011": {
+    "path": "assets/boards/142x87/board-newyears-12-2011.png",
+    "splitX": 142,
+    "splitY": 87
+  },
+  "board-horsecart-11-2010_rev0111": {
+    "path": "assets/boards/144x100/board-horsecart-11-2010_rev0111.png",
+    "splitX": 144,
+    "splitY": 100
+  },
+  "board-idolstage-06-2012": {
+    "path": "assets/boards/144x127/board-idolstage-06-2012.png",
+    "splitX": 144,
+    "splitY": 127
+  },
+  "board-bathtub-01-2013": {
+    "path": "assets/boards/144x144/board-bathtub-01-2013.png",
+    "splitX": 144,
+    "splitY": 144
+  },
+  "board-greengiraffe-05-2013": {
+    "path": "assets/boards/144x144/board-greengiraffe-05-2013.png",
+    "splitX": 144,
+    "splitY": 144
+  },
+  "board-puppybasket-08-2013": {
+    "path": "assets/boards/144x144/board-puppybasket-08-2013.png",
+    "splitX": 144,
+    "splitY": 144
+  },
+  "board-purplepanda-08-2013": {
+    "path": "assets/boards/144x144/board-purplepanda-08-2013.png",
+    "splitX": 144,
+    "splitY": 144
+  },
+  "board-curtain-05-2013": {
+    "path": "assets/boards/144x216/board-curtain-05-2013.png",
+    "splitX": 144,
+    "splitY": 216
+  },
+  "board-eiffeltower-05-2013": {
+    "path": "assets/boards/144x216/board-eiffeltower-05-2013.png",
+    "splitX": 144,
+    "splitY": 216
+  },
+  "board-treecookie-12-2012": {
+    "path": "assets/boards/144x91/board-treecookie-12-2012.png",
+    "splitX": 144,
+    "splitY": 91
+  },
+  "board-elfboard-1-2011": {
+    "path": "assets/boards/145x102/board-elfboard-1-2011.png",
+    "splitX": 145,
+    "splitY": 102
+  },
+  "board-snowstorm-01-2012": {
+    "path": "assets/boards/145x131/board-snowstorm-01-2012.png",
+    "splitX": 145,
+    "splitY": 131
+  },
+  "board_bff_heartballoon_10_2014": {
+    "path": "assets/boards/146x120/board_bff_heartballoon_10_2014.png",
+    "splitX": 146,
+    "splitY": 120
+  },
+  "board-gator-11-2011": {
+    "path": "assets/boards/146x60/board-gator-11-2011.png",
+    "splitX": 146,
+    "splitY": 60
+  },
+  "board-gatorrc-11-2011": {
+    "path": "assets/boards/146x60/board-gatorrc-11-2011.png",
+    "splitX": 146,
+    "splitY": 60
+  },
+  "board-floatingship-3-2011": {
+    "path": "assets/boards/148x150/board-floatingship-3-2011.png",
+    "splitX": 148,
+    "splitY": 150
+  },
+  "board-slime-10-2013": {
+    "path": "assets/boards/149x125/board-slime-10-2013.png",
+    "splitX": 149,
+    "splitY": 125
+  },
+  "board-olive-otter-07-2012": {
+    "path": "assets/boards/149x150/board-olive-otter-07-2012.png",
+    "splitX": 149,
+    "splitY": 150
+  },
+  "board-raft-whitewater-07-2012": {
+    "path": "assets/boards/149x150/board-raft-whitewater-07-2012.png",
+    "splitX": 149,
+    "splitY": 150
+  },
+  "board-star-12-2011": {
+    "path": "assets/boards/149x65/board-star-12-2011.png",
+    "splitX": 149,
+    "splitY": 65
+  },
+  "2017_08_board_limited_edition_diva": {
+    "path": "assets/boards/150x100/2017_08_board_limited_edition_diva.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "2017_08_board_limited_edition_rider": {
+    "path": "assets/boards/150x100/2017_08_board_limited_edition_rider.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-bear-07-2013": {
+    "path": "assets/boards/150x100/board-bear-07-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-cake-09-2013": {
+    "path": "assets/boards/150x100/board-cake-09-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-chinesedragon-01-2013": {
+    "path": "assets/boards/150x100/board-chinesedragon-01-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-coconut-06-2013": {
+    "path": "assets/boards/150x100/board-coconut-06-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-cookies-09-2013": {
+    "path": "assets/boards/150x100/board-cookies-09-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-daysevenprz-04-2013": {
+    "path": "assets/boards/150x100/board-daysevenprz-04-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-fireworkprizenm-07-2013": {
+    "path": "assets/boards/150x100/board-fireworkprizenm-07-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-ghostfish-07-2013": {
+    "path": "assets/boards/150x100/board-ghostfish-07-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-lollipop-09-2011": {
+    "path": "assets/boards/150x100/board-lollipop-09-2011.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-motorcycle-01-2014": {
+    "path": "assets/boards/150x100/board-motorcycle-01-2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-seaturtle-08-2013": {
+    "path": "assets/boards/150x100/board-seaturtle-08-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-sleipnir-10-2012": {
+    "path": "assets/boards/150x100/board-sleipnir-10-2012.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-spider-10-2013": {
+    "path": "assets/boards/150x100/board-spider-10-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-stickypad-08-2011": {
+    "path": "assets/boards/150x100/board-stickypad-08-2011.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-sunflower-03-2013": {
+    "path": "assets/boards/150x100/board-sunflower-03-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-warhorse-12-2012": {
+    "path": "assets/boards/150x100/board-warhorse-12-2012.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-warhorseg-12-2012": {
+    "path": "assets/boards/150x100/board-warhorseg-12-2012.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-waverunner-06-2013": {
+    "path": "assets/boards/150x100/board-waverunner-06-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-waverunnerrc-07-2013": {
+    "path": "assets/boards/150x100/board-waverunnerrc-07-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-wreath-12-2012": {
+    "path": "assets/boards/150x100/board-wreath-12-2012.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-xmaslights-12-2011": {
+    "path": "assets/boards/150x100/board-xmaslights-12-2011.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_bottleship-05-2013": {
+    "path": "assets/boards/150x100/board_bottleship-05-2013.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_conveyorbelt_08_2014": {
+    "path": "assets/boards/150x100/board_conveyorbelt_08_2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_dinocycle_04_2014": {
+    "path": "assets/boards/150x100/board_dinocycle_04_2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_flyingcarpet_05_2014": {
+    "path": "assets/boards/150x100/board_flyingcarpet_05_2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_quad_04_2014": {
+    "path": "assets/boards/150x100/board_quad_04_2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board_teacup_08_2014": {
+    "path": "assets/boards/150x100/board_teacup_08_2014.png",
+    "splitX": 150,
+    "splitY": 100
+  },
+  "board-picnictable-05-2013": {
+    "path": "assets/boards/150x105/board-picnictable-05-2013.png",
+    "splitX": 150,
+    "splitY": 105
+  },
+  "board-scarecrow-10-2013": {
+    "path": "assets/boards/150x107/board-scarecrow-10-2013.png",
+    "splitX": 150,
+    "splitY": 107
+  },
+  "board-fishfish-12-2011": {
+    "path": "assets/boards/150x108/board-fishfish-12-2011.png",
+    "splitX": 150,
+    "splitY": 108
+  },
+  "board-longship-09-2011": {
+    "path": "assets/boards/150x114/board-longship-09-2011.png",
+    "splitX": 150,
+    "splitY": 114
+  },
+  "2015_01_board_shop_1": {
+    "path": "assets/boards/150x118/2015_01_board_shop_1.png",
+    "splitX": 150,
+    "splitY": 118
+  },
+  "board-castle-08-2012": {
+    "path": "assets/boards/150x120/board-castle-08-2012.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board-firecar-12-2012": {
+    "path": "assets/boards/150x120/board-firecar-12-2012.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board-firecarrc-04-2013": {
+    "path": "assets/boards/150x120/board-firecarrc-04-2013.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board-noisemaker-12-2012": {
+    "path": "assets/boards/150x120/board-noisemaker-12-2012.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board-noisemakerg-12-2012": {
+    "path": "assets/boards/150x120/board-noisemakerg-12-2012.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board-ufo-07-2013": {
+    "path": "assets/boards/150x120/board-ufo-07-2013.png",
+    "splitX": 150,
+    "splitY": 120
+  },
+  "board_candyworld-10-2012": {
+    "path": "assets/boards/150x124/board_candyworld-10-2012.png",
+    "splitX": 150,
+    "splitY": 124
+  },
+  "board-apple-06-2011": {
+    "path": "assets/boards/150x125/board-apple-06-2011.png",
+    "splitX": 150,
+    "splitY": 125
+  },
+  "board-clock-12-2012": {
+    "path": "assets/boards/150x127/board-clock-12-2012.png",
+    "splitX": 150,
+    "splitY": 127
+  },
+  "board-bronto-03-2012": {
+    "path": "assets/boards/150x128/board-bronto-03-2012.png",
+    "splitX": 150,
+    "splitY": 128
+  },
+  "board-tricero-03-2012": {
+    "path": "assets/boards/150x128/board-tricero-03-2012.png",
+    "splitX": 150,
+    "splitY": 128
+  },
+  "board-fruitbat-10-2012": {
+    "path": "assets/boards/150x129/board-fruitbat-10-2012.png",
+    "splitX": 150,
+    "splitY": 129
+  },
+  "board-gourdboard-10-2012": {
+    "path": "assets/boards/150x129/board-gourdboard-10-2012.png",
+    "splitX": 150,
+    "splitY": 129
+  },
+  "board-pumpkins-10-2012": {
+    "path": "assets/boards/150x129/board-pumpkins-10-2012.png",
+    "splitX": 150,
+    "splitY": 129
+  },
+  "board-balldrop-12-2011": {
+    "path": "assets/boards/150x130/board-balldrop-12-2011.png",
+    "splitX": 150,
+    "splitY": 130
+  },
+  "board-boardshop-11-2012": {
+    "path": "assets/boards/150x134/board-boardshop-11-2012.png",
+    "splitX": 150,
+    "splitY": 134
+  },
+  "board-michaelsboard-11-2012": {
+    "path": "assets/boards/150x134/board-michaelsboard-11-2012.png",
+    "splitX": 150,
+    "splitY": 134
+  },
+  "board-throne-12-2011": {
+    "path": "assets/boards/150x136/board-throne-12-2011.png",
+    "splitX": 150,
+    "splitY": 136
+  },
+  "board-reddragon-10-2012": {
+    "path": "assets/boards/150x140/board-reddragon-10-2012.png",
+    "splitX": 150,
+    "splitY": 140
+  },
+  "2017_08_04_AIR4_2_orangecat": {
+    "path": "assets/boards/150x150/2017_08_04_AIR4_2_orangecat.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "2017_09_board_loco_pm2": {
+    "path": "assets/boards/150x150/2017_09_board_loco_pm2.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-balloonhorse-08-2013": {
+    "path": "assets/boards/150x150/board-balloonhorse-08-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-bobo-07-2012": {
+    "path": "assets/boards/150x150/board-bobo-07-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-bookworm-09-2013": {
+    "path": "assets/boards/150x150/board-bookworm-09-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-boxochoco-02-2013": {
+    "path": "assets/boards/150x150/board-boxochoco-02-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-bumpcar-04-2013": {
+    "path": "assets/boards/150x150/board-bumpcar-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-butterfly-03-2013": {
+    "path": "assets/boards/150x150/board-butterfly-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-campsite-07-2013": {
+    "path": "assets/boards/150x150/board-campsite-07-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-candylane-12-2012": {
+    "path": "assets/boards/150x150/board-candylane-12-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-catbus-08-2013": {
+    "path": "assets/boards/150x150/board-catbus-08-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-cattercycle-03-2013": {
+    "path": "assets/boards/150x150/board-cattercycle-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-cemetary-10-2013": {
+    "path": "assets/boards/150x150/board-cemetary-10-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-chocobun-03-2013": {
+    "path": "assets/boards/150x150/board-chocobun-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-crystal-phoenix-08-2012": {
+    "path": "assets/boards/150x150/board-crystal-phoenix-08-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-daffodil-03-2013": {
+    "path": "assets/boards/150x150/board-daffodil-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-dayfiveprz-04-2013": {
+    "path": "assets/boards/150x150/board-dayfiveprz-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-dragoncoaster-04-2013": {
+    "path": "assets/boards/150x150/board-dragoncoaster-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-eastbask-03-2013": {
+    "path": "assets/boards/150x150/board-eastbask-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-easterlily-03-2013": {
+    "path": "assets/boards/150x150/board-easterlily-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-filmset-05-2013": {
+    "path": "assets/boards/150x150/board-filmset-05-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-flamingo-06-2012": {
+    "path": "assets/boards/150x150/board-flamingo-06-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-flowers-05-2013": {
+    "path": "assets/boards/150x150/board-flowers-05-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-flyingpumpkin-10-2009": {
+    "path": "assets/boards/150x150/board-flyingpumpkin-10-2009.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-gazelle-04-2012": {
+    "path": "assets/boards/150x150/board-gazelle-04-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-gingerbread-12-2012": {
+    "path": "assets/boards/150x150/board-gingerbread-12-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-guru-09-2011": {
+    "path": "assets/boards/150x150/board-guru-09-2011.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-hatchedeggs-03-2013": {
+    "path": "assets/boards/150x150/board-hatchedeggs-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-heron-07-2013": {
+    "path": "assets/boards/150x150/board-heron-07-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-horse-04-2013": {
+    "path": "assets/boards/150x150/board-horse-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-horseshoe-04-2013": {
+    "path": "assets/boards/150x150/board-horseshoe-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-hottub-06-2013": {
+    "path": "assets/boards/150x150/board-hottub-06-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-hover-02-2013": {
+    "path": "assets/boards/150x150/board-hover-02-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-humpty-08-2013": {
+    "path": "assets/boards/150x150/board-humpty-08-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-incubator-05-2013": {
+    "path": "assets/boards/150x150/board-incubator-05-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-lemur-12-2012": {
+    "path": "assets/boards/150x150/board-lemur-12-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-lovely-02-2013": {
+    "path": "assets/boards/150x150/board-lovely-02-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-marchingbassdrum-07-2011": {
+    "path": "assets/boards/150x150/board-marchingbassdrum-07-2011.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-miniegg-03-2013": {
+    "path": "assets/boards/150x150/board-miniegg-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-mothersday-05-2013": {
+    "path": "assets/boards/150x150/board-mothersday-05-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-mouse-04-2013": {
+    "path": "assets/boards/150x150/board-mouse-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-nmbun-03-2013": {
+    "path": "assets/boards/150x150/board-nmbun-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-pinkdragon-06-2011": {
+    "path": "assets/boards/150x150/board-pinkdragon-06-2011.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-potofgold-03-2013": {
+    "path": "assets/boards/150x150/board-potofgold-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-rocket-12-2012": {
+    "path": "assets/boards/150x150/board-rocket-12-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-rockface-09-2013": {
+    "path": "assets/boards/150x150/board-rockface-09-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-roseflash-04-2013": {
+    "path": "assets/boards/150x150/board-roseflash-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-roses-03-2013": {
+    "path": "assets/boards/150x150/board-roses-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-scholar-06-2011": {
+    "path": "assets/boards/150x150/board-scholar-06-2011.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-scrambler-04-2013": {
+    "path": "assets/boards/150x150/board-scrambler-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-sharkboat-06-2013": {
+    "path": "assets/boards/150x150/board-sharkboat-06-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-sharkboatrc-07-2013": {
+    "path": "assets/boards/150x150/board-sharkboatrc-07-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-shellbucket-06-2013": {
+    "path": "assets/boards/150x150/board-shellbucket-06-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-shellbucketrc-06-2013": {
+    "path": "assets/boards/150x150/board-shellbucketrc-06-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-snowboard-01-2012": {
+    "path": "assets/boards/150x150/board-snowboard-01-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-snowturtle-12-2013": {
+    "path": "assets/boards/150x150/board-snowturtle-12-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-stairs-04-2013": {
+    "path": "assets/boards/150x150/board-stairs-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-star-cluster-08-2012": {
+    "path": "assets/boards/150x150/board-star-cluster-08-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-stpatcar-03-2013": {
+    "path": "assets/boards/150x150/board-stpatcar-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-swanboat-04-2013": {
+    "path": "assets/boards/150x150/board-swanboat-04-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-swanboatrc-07-2013": {
+    "path": "assets/boards/150x150/board-swanboatrc-07-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-swanfamily-03-2013": {
+    "path": "assets/boards/150x150/board-swanfamily-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-theater-05-2013": {
+    "path": "assets/boards/150x150/board-theater-05-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-trainwheels-01-2010": {
+    "path": "assets/boards/150x150/board-trainwheels-01-2010.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-trellis-03-2013": {
+    "path": "assets/boards/150x150/board-trellis-03-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-turtle-07-2013": {
+    "path": "assets/boards/150x150/board-turtle-07-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-windman-09-2013": {
+    "path": "assets/boards/150x150/board-windman-09-2013.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-windsurfer-06-2012": {
+    "path": "assets/boards/150x150/board-windsurfer-06-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-wizardboy-07-2009": {
+    "path": "assets/boards/150x150/board-wizardboy-07-2009.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-wizardgirl-07-2009": {
+    "path": "assets/boards/150x150/board-wizardgirl-07-2009.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_bubble-04-2012": {
+    "path": "assets/boards/150x150/board_bubble-04-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_dragcoaster_02_2014": {
+    "path": "assets/boards/150x150/board_dragcoaster_02_2014.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_duck_01_2012": {
+    "path": "assets/boards/150x150/board_duck_01_2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_egloo-11-2012": {
+    "path": "assets/boards/150x150/board_egloo-11-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_penguin-11-2012": {
+    "path": "assets/boards/150x150/board_penguin-11-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board_volcano-12-2012": {
+    "path": "assets/boards/150x150/board_volcano-12-2012.png",
+    "splitX": 150,
+    "splitY": 150
+  },
+  "board-bowling-09-2012": {
+    "path": "assets/boards/150x152/board-bowling-09-2012.png",
+    "splitX": 150,
+    "splitY": 152
+  },
+  "board-barbhouse-02-2013": {
+    "path": "assets/boards/150x159/board-barbhouse-02-2013.png",
+    "splitX": 150,
+    "splitY": 159
+  },
+  "board-pheonix-12-2011": {
+    "path": "assets/boards/150x159/board-pheonix-12-2011.png",
+    "splitX": 150,
+    "splitY": 159
+  },
+  "board-forcefield-06-2012": {
+    "path": "assets/boards/150x170/board-forcefield-06-2012.png",
+    "splitX": 150,
+    "splitY": 170
+  },
+  "board-christmastree-12-2012": {
+    "path": "assets/boards/150x175/board-christmastree-12-2012.png",
+    "splitX": 150,
+    "splitY": 175
+  },
+  "board-crystal-11-2011": {
+    "path": "assets/boards/150x175/board-crystal-11-2011.png",
+    "splitX": 150,
+    "splitY": 175
+  },
+  "board-elecwindmill-04-2012": {
+    "path": "assets/boards/150x180/board-elecwindmill-04-2012.png",
+    "splitX": 150,
+    "splitY": 180
+  },
+  "board-popstar-04-2012": {
+    "path": "assets/boards/150x185/board-popstar-04-2012.png",
+    "splitX": 150,
+    "splitY": 185
+  },
+  "board-lemur-08-2011": {
+    "path": "assets/boards/150x191/board-lemur-08-2011.png",
+    "splitX": 150,
+    "splitY": 191
+  },
+  "board-blackhole-02-2013": {
+    "path": "assets/boards/150x200/board-blackhole-02-2013.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-catbot-12-2011": {
+    "path": "assets/boards/150x200/board-catbot-12-2011.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-dolphin-07-2011": {
+    "path": "assets/boards/150x200/board-dolphin-07-2011.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-emeraldcastle-12-2012": {
+    "path": "assets/boards/150x200/board-emeraldcastle-12-2012.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-firehydrant-08-2013": {
+    "path": "assets/boards/150x200/board-firehydrant-08-2013.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-icecastle-12-2012": {
+    "path": "assets/boards/150x200/board-icecastle-12-2012.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-throne-04-2013": {
+    "path": "assets/boards/150x200/board-throne-04-2013.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board_bananathrone_06-_2014": {
+    "path": "assets/boards/150x200/board_bananathrone_06-_2014.png",
+    "splitX": 150,
+    "splitY": 200
+  },
+  "board-candycane-12-2011": {
+    "path": "assets/boards/150x49/board-candycane-12-2011.png",
+    "splitX": 150,
+    "splitY": 49
+  },
+  "board-cell-12-2011": {
+    "path": "assets/boards/150x50/board-cell-12-2011.png",
+    "splitX": 150,
+    "splitY": 50
+  },
+  "board-magiccards-05-2012": {
+    "path": "assets/boards/150x50/board-magiccards-05-2012.png",
+    "splitX": 150,
+    "splitY": 50
+  },
+  "board-sled-12-2012": {
+    "path": "assets/boards/150x50/board-sled-12-2012.png",
+    "splitX": 150,
+    "splitY": 50
+  },
+  "board-turntable-08-2013": {
+    "path": "assets/boards/150x50/board-turntable-08-2013.png",
+    "splitX": 150,
+    "splitY": 50
+  },
+  "board_fireworkboard_07_2013": {
+    "path": "assets/boards/150x50/board_fireworkboard_07_2013.png",
+    "splitX": 150,
+    "splitY": 50
+  },
+  "board-turtle-08-2012": {
+    "path": "assets/boards/150x60/board-turtle-08-2012.png",
+    "splitX": 150,
+    "splitY": 60
+  },
+  "board-cody-08-2011": {
+    "path": "assets/boards/150x71/board-cody-08-2011.png",
+    "splitX": 150,
+    "splitY": 71
+  },
+  "board-flyingcarpet-05-2012": {
+    "path": "assets/boards/150x71/board-flyingcarpet-05-2012.png",
+    "splitX": 150,
+    "splitY": 71
+  },
+  "board-limo-05-2012": {
+    "path": "assets/boards/150x76/board-limo-05-2012.png",
+    "splitX": 150,
+    "splitY": 76
+  },
+  "board-cashu-12-2012": {
+    "path": "assets/boards/150x80/board-cashu-12-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-daythreeprize-04-2013": {
+    "path": "assets/boards/150x80/board-daythreeprize-04-2013.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-dragon-08-2012": {
+    "path": "assets/boards/150x80/board-dragon-08-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-greendragon-05-2012": {
+    "path": "assets/boards/150x80/board-greendragon-05-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-pillowblue-01-2012": {
+    "path": "assets/boards/150x80/board-pillowblue-01-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-pillowdot-01-2012": {
+    "path": "assets/boards/150x80/board-pillowdot-01-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-pillowpink-01-2012": {
+    "path": "assets/boards/150x80/board-pillowpink-01-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "board-pillowredstripe-01-2012": {
+    "path": "assets/boards/150x80/board-pillowredstripe-01-2012.png",
+    "splitX": 150,
+    "splitY": 80
+  },
+  "2015_01_board_shop_2": {
+    "path": "assets/boards/150x81/2015_01_board_shop_2.png",
+    "splitX": 150,
+    "splitY": 81
+  },
+  "board-superhero-04-2012": {
+    "path": "assets/boards/150x84/board-superhero-04-2012.png",
+    "splitX": 150,
+    "splitY": 84
+  },
+  "board-catapult-08-2012": {
+    "path": "assets/boards/150x90/board-catapult-08-2012.png",
+    "splitX": 150,
+    "splitY": 90
+  },
+  "board-plane-07-2013": {
+    "path": "assets/boards/150x90/board-plane-07-2013.png",
+    "splitX": 150,
+    "splitY": 90
+  },
+  "board-dancefloor-3-2011": {
+    "path": "assets/boards/151x81/board-dancefloor-3-2011.png",
+    "splitX": 151,
+    "splitY": 81
+  },
+  "board-arrowgame-04-2011": {
+    "path": "assets/boards/152x97/board-arrowgame-04-2011.png",
+    "splitX": 152,
+    "splitY": 97
+  },
+  "board-kangaroo": {
+    "path": "assets/boards/153x141/board-kangaroo.png",
+    "splitX": 153,
+    "splitY": 141
+  },
+  "board-petgift-12-2013": {
+    "path": "assets/boards/153x57/board-petgift-12-2013.png",
+    "splitX": 153,
+    "splitY": 57
+  },
+  "2017_11_board_le_diamond": {
+    "path": "assets/boards/154x140/2017_11_board_le_diamond.png",
+    "splitX": 154,
+    "splitY": 140
+  },
+  "2017_04_board_prom_lm1": {
+    "path": "assets/boards/154x181/2017_04_board_prom_lm1.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2017_04_board_prom_rg1": {
+    "path": "assets/boards/154x181/2017_04_board_prom_rg1.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2017_06_board_anime": {
+    "path": "assets/boards/154x181/2017_06_board_anime.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2017_10_board_halloween_lm1": {
+    "path": "assets/boards/154x181/2017_10_board_halloween_lm1.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2017_10_board_halloween_lm2": {
+    "path": "assets/boards/154x181/2017_10_board_halloween_lm2.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2018_04_board_10th_lm": {
+    "path": "assets/boards/154x181/2018_04_board_10th_lm.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-balloon-12-2011": {
+    "path": "assets/boards/154x181/board-balloon-12-2011.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-battleship-05-2012": {
+    "path": "assets/boards/154x181/board-battleship-05-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-birdnest-07-2012": {
+    "path": "assets/boards/154x181/board-birdnest-07-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-blizzyicebox-01-2012": {
+    "path": "assets/boards/154x181/board-blizzyicebox-01-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-book-09-2012": {
+    "path": "assets/boards/154x181/board-book-09-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-carousel-11-2011": {
+    "path": "assets/boards/154x181/board-carousel-11-2011.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-cat-04-2012": {
+    "path": "assets/boards/154x181/board-cat-04-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-duckboat-05-2012": {
+    "path": "assets/boards/154x181/board-duckboat-05-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-flowerheel-03-2013": {
+    "path": "assets/boards/154x181/board-flowerheel-03-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-gingerbread-12-2013": {
+    "path": "assets/boards/154x181/board-gingerbread-12-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-grandfathersclock-03-2013": {
+    "path": "assets/boards/154x181/board-grandfathersclock-03-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-halfpipe-03-2012": {
+    "path": "assets/boards/154x181/board-halfpipe-03-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-lavenderlion-02-2013": {
+    "path": "assets/boards/154x181/board-lavenderlion-02-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-lotus-08-2012": {
+    "path": "assets/boards/154x181/board-lotus-08-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-magentapony-05-2012": {
+    "path": "assets/boards/154x181/board-magentapony-05-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-moon-08-2012": {
+    "path": "assets/boards/154x181/board-moon-08-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-periwinklepuffin-03-2013": {
+    "path": "assets/boards/154x181/board-periwinklepuffin-03-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-pig-04-2012": {
+    "path": "assets/boards/154x181/board-pig-04-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-pinkcow-11-2012": {
+    "path": "assets/boards/154x181/board-pinkcow-11-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-pinkgokart-03-2012": {
+    "path": "assets/boards/154x181/board-pinkgokart-03-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-pram-07-2012": {
+    "path": "assets/boards/154x181/board-pram-07-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-puppy-09-2012": {
+    "path": "assets/boards/154x181/board-puppy-09-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-redgokart-03-2012": {
+    "path": "assets/boards/154x181/board-redgokart-03-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-robodog-06-2012": {
+    "path": "assets/boards/154x181/board-robodog-06-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-skateboard-06-2012": {
+    "path": "assets/boards/154x181/board-skateboard-06-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-snowglobe-12-2011": {
+    "path": "assets/boards/154x181/board-snowglobe-12-2011.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-soap-11-2012": {
+    "path": "assets/boards/154x181/board-soap-11-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-stingray-05-2012": {
+    "path": "assets/boards/154x181/board-stingray-05-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-superpug-05-2012": {
+    "path": "assets/boards/154x181/board-superpug-05-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-think-pencil-09-2014": {
+    "path": "assets/boards/154x181/board-think-pencil-09-2014.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board-whiteseal-09-2012": {
+    "path": "assets/boards/154x181/board-whiteseal-09-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_fire-09-2013": {
+    "path": "assets/boards/154x181/board_fire-09-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_gorilla-07-2013": {
+    "path": "assets/boards/154x181/board_gorilla-07-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_leopard-11-2012": {
+    "path": "assets/boards/154x181/board_leopard-11-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_pancake-01-2012": {
+    "path": "assets/boards/154x181/board_pancake-01-2012.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_patchwork-07-2013": {
+    "path": "assets/boards/154x181/board_patchwork-07-2013.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "board_pinktiger_01_2014": {
+    "path": "assets/boards/154x181/board_pinktiger_01_2014.png",
+    "splitX": 154,
+    "splitY": 181
+  },
+  "2017_08_board_bff": {
+    "path": "assets/boards/154x70/2017_08_board_bff.png",
+    "splitX": 154,
+    "splitY": 70
+  },
+  "2015_02_boy_board_valentine_limited": {
+    "path": "assets/boards/154x90/2015_02_boy_board_valentine_limited.png",
+    "splitX": 154,
+    "splitY": 90
+  },
+  "2015_02_girl_board_valentine_limited": {
+    "path": "assets/boards/154x90/2015_02_girl_board_valentine_limited.png",
+    "splitX": 154,
+    "splitY": 90
+  },
+  "board-earthday-4-2011": {
+    "path": "assets/boards/155x155/board-earthday-4-2011.png",
+    "splitX": 155,
+    "splitY": 155
+  },
+  "board_greenleaf": {
+    "path": "assets/boards/155x37/board_greenleaf.png",
+    "splitX": 155,
+    "splitY": 37
+  },
+  "board_mapleleaf": {
+    "path": "assets/boards/155x37/board_mapleleaf.png",
+    "splitX": 155,
+    "splitY": 37
+  },
+  "board_mangagal": {
+    "path": "assets/boards/155x40/board_mangagal.png",
+    "splitX": 155,
+    "splitY": 40
+  },
+  "board_mantaray": {
+    "path": "assets/boards/155x43/board_mantaray.png",
+    "splitX": 155,
+    "splitY": 43
+  },
+  "board_carpet": {
+    "path": "assets/boards/155x44/board_carpet.png",
+    "splitX": 155,
+    "splitY": 44
+  },
+  "board-santasled2007": {
+    "path": "assets/boards/155x45/board-santasled2007.png",
+    "splitX": 155,
+    "splitY": 45
+  },
+  "board_firebird": {
+    "path": "assets/boards/155x45/board_firebird.png",
+    "splitX": 155,
+    "splitY": 45
+  },
+  "board_ufomini": {
+    "path": "assets/boards/155x50/board_ufomini.png",
+    "splitX": 155,
+    "splitY": 50
+  },
+  "board_dorsal": {
+    "path": "assets/boards/155x53/board_dorsal.png",
+    "splitX": 155,
+    "splitY": 53
+  },
+  "board_starjet": {
+    "path": "assets/boards/155x53/board_starjet.png",
+    "splitX": 155,
+    "splitY": 53
+  },
+  "board_nimbus": {
+    "path": "assets/boards/155x54/board_nimbus.png",
+    "splitX": 155,
+    "splitY": 54
+  },
+  "board_nimbus_pink": {
+    "path": "assets/boards/155x54/board_nimbus_pink.png",
+    "splitX": 155,
+    "splitY": 54
+  },
+  "2017_06_board_loco3": {
+    "path": "assets/boards/155x59/2017_06_board_loco3.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-bluewatertube-08-2009": {
+    "path": "assets/boards/155x59/board-bluewatertube-08-2009.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-eyegreen-03-2013": {
+    "path": "assets/boards/155x59/board-eyegreen-03-2013.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-greencar-03-2013": {
+    "path": "assets/boards/155x59/board-greencar-03-2013.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-highheel-01-2010": {
+    "path": "assets/boards/155x59/board-highheel-01-2010.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-highheel-09-2010": {
+    "path": "assets/boards/155x59/board-highheel-09-2010.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-peepingeye": {
+    "path": "assets/boards/155x59/board-peepingeye.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-sneakers-01-2010": {
+    "path": "assets/boards/155x59/board-sneakers-01-2010.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-watertube-07-2009": {
+    "path": "assets/boards/155x59/board-watertube-07-2009.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-wheel-barrel-10-2009": {
+    "path": "assets/boards/155x59/board-wheel-barrel-10-2009.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_car": {
+    "path": "assets/boards/155x59/board_car.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_chrysanthemum": {
+    "path": "assets/boards/155x59/board_chrysanthemum.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_chrysfrozen": {
+    "path": "assets/boards/155x59/board_chrysfrozen.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_greenface": {
+    "path": "assets/boards/155x59/board_greenface.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_rarechariot3": {
+    "path": "assets/boards/155x59/board_rarechariot3.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board_raremotorcycle": {
+    "path": "assets/boards/155x59/board_raremotorcycle.png",
+    "splitX": 155,
+    "splitY": 59
+  },
+  "board-limefanta-03-2011": {
+    "path": "assets/boards/155x62/board-limefanta-03-2011.png",
+    "splitX": 155,
+    "splitY": 62
+  },
+  "board_pegasus": {
+    "path": "assets/boards/155x62/board_pegasus.png",
+    "splitX": 155,
+    "splitY": 62
+  },
+  "board_pinklaceteacup": {
+    "path": "assets/boards/155x80/board_pinklaceteacup.png",
+    "splitX": 155,
+    "splitY": 80
+  },
+  "board-dogsled-12-2012": {
+    "path": "assets/boards/156x150/board-dogsled-12-2012.png",
+    "splitX": 156,
+    "splitY": 150
+  },
+  "board-dogsledrc-12-2012": {
+    "path": "assets/boards/156x150/board-dogsledrc-12-2012.png",
+    "splitX": 156,
+    "splitY": 150
+  },
+  "board-seahorse-07-2011": {
+    "path": "assets/boards/157x100/board-seahorse-07-2011.png",
+    "splitX": 157,
+    "splitY": 100
+  },
+  "board_seahorse_02_2014": {
+    "path": "assets/boards/157x100/board_seahorse_02_2014.png",
+    "splitX": 157,
+    "splitY": 100
+  },
+  "board-server-04-2013": {
+    "path": "assets/boards/157x99/board-server-04-2013.png",
+    "splitX": 157,
+    "splitY": 99
+  },
+  "board-boatfireworks-07-2013": {
+    "path": "assets/boards/159x190/board-boatfireworks-07-2013.png",
+    "splitX": 159,
+    "splitY": 190
+  },
+  "board-boatfireworksrc-07-2013": {
+    "path": "assets/boards/159x190/board-boatfireworksrc-07-2013.png",
+    "splitX": 159,
+    "splitY": 190
+  },
+  "board-poolparty-06-2011": {
+    "path": "assets/boards/159x83/board-poolparty-06-2011.png",
+    "splitX": 159,
+    "splitY": 83
+  },
+  "board-airship-04-2012": {
+    "path": "assets/boards/160x152/board-airship-04-2012.png",
+    "splitX": 160,
+    "splitY": 152
+  },
+  "board-caterpillar-04-2012": {
+    "path": "assets/boards/160x170/board-caterpillar-04-2012.png",
+    "splitX": 160,
+    "splitY": 170
+  },
+  "board-teaparty-04-2012": {
+    "path": "assets/boards/160x170/board-teaparty-04-2012.png",
+    "splitX": 160,
+    "splitY": 170
+  },
+  "board_junglerun_08_2014": {
+    "path": "assets/boards/165x119/board_junglerun_08_2014.png",
+    "splitX": 165,
+    "splitY": 119
+  },
+  "board-whiteboat-06-2011": {
+    "path": "assets/boards/166x150/board-whiteboat-06-2011.png",
+    "splitX": 166,
+    "splitY": 150
+  },
+  "board-whiteboatrc-07-2013": {
+    "path": "assets/boards/166x150/board-whiteboatrc-07-2013.png",
+    "splitX": 166,
+    "splitY": 150
+  },
+  "board-germanhouse-01-2013": {
+    "path": "assets/boards/167x140/board-germanhouse-01-2013.png",
+    "splitX": 167,
+    "splitY": 140
+  },
+  "2018_03_board_stpatrick_lm1": {
+    "path": "assets/boards/169x146/2018_03_board_stpatrick_lm1.png",
+    "splitX": 169,
+    "splitY": 146
+  },
+  "2018_03_board_stpatrick_lm2": {
+    "path": "assets/boards/169x146/2018_03_board_stpatrick_lm2.png",
+    "splitX": 169,
+    "splitY": 146
+  },
+  "board-fallville-10-2013": {
+    "path": "assets/boards/169x153/board-fallville-10-2013.png",
+    "splitX": 169,
+    "splitY": 153
+  },
+  "board-submarine-09-2011": {
+    "path": "assets/boards/170x134/board-submarine-09-2011.png",
+    "splitX": 170,
+    "splitY": 134
+  },
+  "2017_04_AIR4_4thofjuly": {
+    "path": "assets/boards/170x146/2017_04_AIR4_4thofjuly.png",
+    "splitX": 170,
+    "splitY": 146
+  },
+  "2018_02_board_valentine_lm2": {
+    "path": "assets/boards/170x146/2018_02_board_valentine_lm2.png",
+    "splitX": 170,
+    "splitY": 146
+  },
+  "2018_02_board_valentine_rg1": {
+    "path": "assets/boards/170x146/2018_02_board_valentine_rg1.png",
+    "splitX": 170,
+    "splitY": 146
+  },
+  "board-sunkenruins-08-2013": {
+    "path": "assets/boards/170x150/board-sunkenruins-08-2013.png",
+    "splitX": 170,
+    "splitY": 150
+  },
+  "2017_10_board_limited_gamethrone2": {
+    "path": "assets/boards/170x160/2017_10_board_limited_gamethrone2.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "2018_01_board_limited_edition_1": {
+    "path": "assets/boards/170x160/2018_01_board_limited_edition_1.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "2018_01_board_newyear_freegift": {
+    "path": "assets/boards/170x160/2018_01_board_newyear_freegift.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "2018_01_board_newyear_lm_1": {
+    "path": "assets/boards/170x160/2018_01_board_newyear_lm_1.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "2018_02_board_chinese_ny_lm": {
+    "path": "assets/boards/170x160/2018_02_board_chinese_ny_lm.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "board_shop_3_01_2015": {
+    "path": "assets/boards/170x160/board_shop_3_01_2015.png",
+    "splitX": 170,
+    "splitY": 160
+  },
+  "2018_02_board_le_olympic_2": {
+    "path": "assets/boards/170x170/2018_02_board_le_olympic_2.png",
+    "splitX": 170,
+    "splitY": 170
+  },
+  "board-copcar-11-2012": {
+    "path": "assets/boards/170x178/board-copcar-11-2012.png",
+    "splitX": 170,
+    "splitY": 178
+  },
+  "board-windmill-04-2012": {
+    "path": "assets/boards/170x192/board-windmill-04-2012.png",
+    "splitX": 170,
+    "splitY": 192
+  },
+  "board-santaboard-12-2009_rev0111": {
+    "path": "assets/boards/170x50/board-santaboard-12-2009_rev0111.png",
+    "splitX": 170,
+    "splitY": 50
+  },
+  "board-firework-red-06-2011": {
+    "path": "assets/boards/170x70/board-firework-red-06-2011.png",
+    "splitX": 170,
+    "splitY": 70
+  },
+  "board-cherryblossom-02-2012": {
+    "path": "assets/boards/171x153/board-cherryblossom-02-2012.png",
+    "splitX": 171,
+    "splitY": 153
+  },
+  "board-golfhole-08-2012": {
+    "path": "assets/boards/175x128/board-golfhole-08-2012.png",
+    "splitX": 175,
+    "splitY": 128
+  },
+  "board-cherrypicker-06-2012": {
+    "path": "assets/boards/175x166/board-cherrypicker-06-2012.png",
+    "splitX": 175,
+    "splitY": 166
+  },
+  "board-rareboard-06-2011": {
+    "path": "assets/boards/175x199/board-rareboard-06-2011.png",
+    "splitX": 175,
+    "splitY": 199
+  },
+  "board-eucastle-12-2011": {
+    "path": "assets/boards/175x200/board-eucastle-12-2011.png",
+    "splitX": 175,
+    "splitY": 200
+  },
+  "board-whoopi-03-2012": {
+    "path": "assets/boards/175x80/board-whoopi-03-2012.png",
+    "splitX": 175,
+    "splitY": 80
+  },
+  "board-girl-halongboat-06-2011": {
+    "path": "assets/boards/177x180/board-girl-halongboat-06-2011.png",
+    "splitX": 177,
+    "splitY": 180
+  },
+  "board-halongboat-06-2011": {
+    "path": "assets/boards/177x180/board-halongboat-06-2011.png",
+    "splitX": 177,
+    "splitY": 180
+  },
+  "board-boat-10-2011": {
+    "path": "assets/boards/178x161/board-boat-10-2011.png",
+    "splitX": 178,
+    "splitY": 161
+  },
+  "board-tent-07-2012": {
+    "path": "assets/boards/179x94/board-tent-07-2012.png",
+    "splitX": 179,
+    "splitY": 94
+  },
+  "board-tentrc-05-2013": {
+    "path": "assets/boards/179x94/board-tentrc-05-2013.png",
+    "splitX": 179,
+    "splitY": 94
+  },
+  "board-petssleigh-12-2011": {
+    "path": "assets/boards/180x110/board-petssleigh-12-2011.png",
+    "splitX": 180,
+    "splitY": 110
+  },
+  "board-gryphon-05-2012": {
+    "path": "assets/boards/180x121/board-gryphon-05-2012.png",
+    "splitX": 180,
+    "splitY": 121
+  },
+  "board-bumpcar-07-2012": {
+    "path": "assets/boards/180x130/board-bumpcar-07-2012.png",
+    "splitX": 180,
+    "splitY": 130
+  },
+  "board-bumpcar-09-2011": {
+    "path": "assets/boards/180x130/board-bumpcar-09-2011.png",
+    "splitX": 180,
+    "splitY": 130
+  },
+  "board-ani-limo-05-2011": {
+    "path": "assets/boards/180x131/board-ani-limo-05-2011.png",
+    "splitX": 180,
+    "splitY": 131
+  },
+  "board-solarcar-04-2012": {
+    "path": "assets/boards/180x165/board-solarcar-04-2012.png",
+    "splitX": 180,
+    "splitY": 165
+  },
+  "board-carriage-04-2012": {
+    "path": "assets/boards/180x200/board-carriage-04-2012.png",
+    "splitX": 180,
+    "splitY": 200
+  },
+  "board-hovercar-04-2011": {
+    "path": "assets/boards/180x75/board-hovercar-04-2011.png",
+    "splitX": 180,
+    "splitY": 75
+  },
+  "board-cheetah-05-2011": {
+    "path": "assets/boards/180x76/board-cheetah-05-2011.png",
+    "splitX": 180,
+    "splitY": 76
+  },
+  "board-moviestara-05-2012": {
+    "path": "assets/boards/190x180/board-moviestara-05-2012.png",
+    "splitX": 190,
+    "splitY": 180
+  },
+  "board-sweathearts-02-2012": {
+    "path": "assets/boards/190x55/board-sweathearts-02-2012.png",
+    "splitX": 190,
+    "splitY": 55
+  },
+  "board-newyears-12-2012": {
+    "path": "assets/boards/191x166/board-newyears-12-2012.png",
+    "splitX": 191,
+    "splitY": 166
+  },
+  "board-grayowl-01-2013": {
+    "path": "assets/boards/192x144/board-grayowl-01-2013.png",
+    "splitX": 192,
+    "splitY": 144
+  },
+  "board-kittenboxes-01-2013": {
+    "path": "assets/boards/192x144/board-kittenboxes-01-2013.png",
+    "splitX": 192,
+    "splitY": 144
+  },
+  "board-owl-04-2013": {
+    "path": "assets/boards/192x144/board-owl-04-2013.png",
+    "splitX": 192,
+    "splitY": 144
+  },
+  "board-corgi-03-2013": {
+    "path": "assets/boards/192x192/board-corgi-03-2013.png",
+    "splitX": 192,
+    "splitY": 192
+  },
+  "board-prehistoric-03-2012": {
+    "path": "assets/boards/193x168/board-prehistoric-03-2012.png",
+    "splitX": 193,
+    "splitY": 168
+  },
+  "board-reindeer-12-2010_rev0111": {
+    "path": "assets/boards/194x100/board-reindeer-12-2010_rev0111.png",
+    "splitX": 194,
+    "splitY": 100
+  },
+  "board-bluepet-08-2010_rev0111": {
+    "path": "assets/boards/194x90/board-bluepet-08-2010_rev0111.png",
+    "splitX": 194,
+    "splitY": 90
+  },
+  "board-whitealpaca-01-2014": {
+    "path": "assets/boards/196x184/board-whitealpaca-01-2014.png",
+    "splitX": 196,
+    "splitY": 184
+  },
+  "board-crab-07-2013": {
+    "path": "assets/boards/200x100/board-crab-07-2013.png",
+    "splitX": 200,
+    "splitY": 100
+  },
+  "board-mockturtle-08-2013": {
+    "path": "assets/boards/200x100/board-mockturtle-08-2013.png",
+    "splitX": 200,
+    "splitY": 100
+  },
+  "board-seafloor-07-2013": {
+    "path": "assets/boards/200x100/board-seafloor-07-2013.png",
+    "splitX": 200,
+    "splitY": 100
+  },
+  "board-shells-07-2013": {
+    "path": "assets/boards/200x100/board-shells-07-2013.png",
+    "splitX": 200,
+    "splitY": 100
+  },
+  "board-turbotube-06-2013": {
+    "path": "assets/boards/200x100/board-turbotube-06-2013.png",
+    "splitX": 200,
+    "splitY": 100
+  },
+  "board-cody-sleigh-12-2011": {
+    "path": "assets/boards/200x110/board-cody-sleigh-12-2011.png",
+    "splitX": 200,
+    "splitY": 110
+  },
+  "board_lmjeep-10-2012": {
+    "path": "assets/boards/200x118/board_lmjeep-10-2012.png",
+    "splitX": 200,
+    "splitY": 118
+  },
+  "board_lmjeepb-10-2012": {
+    "path": "assets/boards/200x118/board_lmjeepb-10-2012.png",
+    "splitX": 200,
+    "splitY": 118
+  },
+  "board-nysnake-12-2012": {
+    "path": "assets/boards/200x120/board-nysnake-12-2012.png",
+    "splitX": 200,
+    "splitY": 120
+  },
+  "2014_12_ecommerce_board1": {
+    "path": "assets/boards/200x129/2014_12_ecommerce_board1.png",
+    "splitX": 200,
+    "splitY": 129
+  },
+  "board-photoshoot-06-2012": {
+    "path": "assets/boards/200x140/board-photoshoot-06-2012.png",
+    "splitX": 200,
+    "splitY": 140
+  },
+  "board-runway-06-2012": {
+    "path": "assets/boards/200x140/board-runway-06-2012.png",
+    "splitX": 200,
+    "splitY": 140
+  },
+  "2018_04_board_10th_prize": {
+    "path": "assets/boards/200x146/2018_04_board_10th_prize.png",
+    "splitX": 200,
+    "splitY": 146
+  },
+  "board-bridge-07-2011": {
+    "path": "assets/boards/200x150/board-bridge-07-2011.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-dinnertable-04-2013": {
+    "path": "assets/boards/200x150/board-dinnertable-04-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-dolphin-08-2013": {
+    "path": "assets/boards/200x150/board-dolphin-08-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-finkelstein-08-2011": {
+    "path": "assets/boards/200x150/board-finkelstein-08-2011.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-mushrooms-08-2013": {
+    "path": "assets/boards/200x150/board-mushrooms-08-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-orcablowup-08-2013": {
+    "path": "assets/boards/200x150/board-orcablowup-08-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-pumpkin-10-2011": {
+    "path": "assets/boards/200x150/board-pumpkin-10-2011.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-purplejelly-08-2013": {
+    "path": "assets/boards/200x150/board-purplejelly-08-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-santasleigh-12-2013": {
+    "path": "assets/boards/200x150/board-santasleigh-12-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-snowfamily-12-2012": {
+    "path": "assets/boards/200x150/board-snowfamily-12-2012.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-walrus-08-2013": {
+    "path": "assets/boards/200x150/board-walrus-08-2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board_clockworkvulture_04_2014": {
+    "path": "assets/boards/200x150/board_clockworkvulture_04_2014.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board_mintmanatee_06_2013": {
+    "path": "assets/boards/200x150/board_mintmanatee_06_2013.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board_starship_09_2014": {
+    "path": "assets/boards/200x150/board_starship_09_2014.png",
+    "splitX": 200,
+    "splitY": 150
+  },
+  "board-dancefloor-01-2013": {
+    "path": "assets/boards/200x153/board-dancefloor-01-2013.png",
+    "splitX": 200,
+    "splitY": 153
+  },
+  "board-winterbridge-01-2013": {
+    "path": "assets/boards/200x153/board-winterbridge-01-2013.png",
+    "splitX": 200,
+    "splitY": 153
+  },
+  "board-pegacorn-11-2012": {
+    "path": "assets/boards/200x170/board-pegacorn-11-2012.png",
+    "splitX": 200,
+    "splitY": 170
+  },
+  "board-ferriswheel-07-2012": {
+    "path": "assets/boards/200x190/board-ferriswheel-07-2012.png",
+    "splitX": 200,
+    "splitY": 190
+  },
+  "board-cruiseumbrella-08-2013": {
+    "path": "assets/boards/200x200/board-cruiseumbrella-08-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-grill-05-2013": {
+    "path": "assets/boards/200x200/board-grill-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-hauntedhouse-07-2013": {
+    "path": "assets/boards/200x200/board-hauntedhouse-07-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-hotairballoons-08-2013": {
+    "path": "assets/boards/200x200/board-hotairballoons-08-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-icecreamtruck-05-2013": {
+    "path": "assets/boards/200x200/board-icecreamtruck-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-nessie-06-2013": {
+    "path": "assets/boards/200x200/board-nessie-06-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-nessierc-07-2013": {
+    "path": "assets/boards/200x200/board-nessierc-07-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-redcar-04-2013": {
+    "path": "assets/boards/200x200/board-redcar-04-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-royalseal-05-2013": {
+    "path": "assets/boards/200x200/board-royalseal-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-rubberchick-04-2013": {
+    "path": "assets/boards/200x200/board-rubberchick-04-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-snowcastle-02-2013": {
+    "path": "assets/boards/200x200/board-snowcastle-02-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-snowmobile-02-2013": {
+    "path": "assets/boards/200x200/board-snowmobile-02-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-starplatform-05-2012": {
+    "path": "assets/boards/200x200/board-starplatform-05-2012.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-strblzdragon-02-2013": {
+    "path": "assets/boards/200x200/board-strblzdragon-02-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-summer-06-2013": {
+    "path": "assets/boards/200x200/board-summer-06-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-tireswing-03-2013": {
+    "path": "assets/boards/200x200/board-tireswing-03-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-tree-05-2013": {
+    "path": "assets/boards/200x200/board-tree-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-turntables-05-2013": {
+    "path": "assets/boards/200x200/board-turntables-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-underwatercastle-05-2013": {
+    "path": "assets/boards/200x200/board-underwatercastle-05-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-vdaythrone-02-2013": {
+    "path": "assets/boards/200x200/board-vdaythrone-02-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-waterfall-06-2013": {
+    "path": "assets/boards/200x200/board-waterfall-06-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board-waterslide-06-2013": {
+    "path": "assets/boards/200x200/board-waterslide-06-2013.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "board_dancefloor_05_2014": {
+    "path": "assets/boards/200x200/board_dancefloor_05_2014.png",
+    "splitX": 200,
+    "splitY": 200
+  },
+  "2014_10_halloween_board": {
+    "path": "assets/boards/200x240/2014_10_halloween_board.png",
+    "splitX": 200,
+    "splitY": 240
+  },
+  "2014_12_thankyou_board2": {
+    "path": "assets/boards/200x240/2014_12_thankyou_board2.png",
+    "splitX": 200,
+    "splitY": 240
+  },
+  "board-genie-07-2013": {
+    "path": "assets/boards/200x250/board-genie-07-2013.png",
+    "splitX": 200,
+    "splitY": 250
+  },
+  "board-icecastle-12-2013": {
+    "path": "assets/boards/200x300/board-icecastle-12-2013.png",
+    "splitX": 200,
+    "splitY": 300
+  },
+  "board-sleigh-12-2012": {
+    "path": "assets/boards/200x80/board-sleigh-12-2012.png",
+    "splitX": 200,
+    "splitY": 80
+  },
+  "2014_12_ecommerce_board2": {
+    "path": "assets/boards/200x98/2014_12_ecommerce_board2.png",
+    "splitX": 200,
+    "splitY": 98
+  },
+  "board-barbiehouse02-04-2013": {
+    "path": "assets/boards/201x158/board-barbiehouse02-04-2013.png",
+    "splitX": 201,
+    "splitY": 158
+  },
+  "board-pegasuschariot-04-2013": {
+    "path": "assets/boards/216x108/board-pegasuschariot-04-2013.png",
+    "splitX": 216,
+    "splitY": 108
+  },
+  "board-seashells-06-2013": {
+    "path": "assets/boards/216x144/board-seashells-06-2013.png",
+    "splitX": 216,
+    "splitY": 144
+  },
+  "board-futuristiccar-06-2011": {
+    "path": "assets/boards/216x175/board-futuristiccar-06-2011.png",
+    "splitX": 216,
+    "splitY": 175
+  },
+  "board-tulipwindmill-04-2013": {
+    "path": "assets/boards/216x180/board-tulipwindmill-04-2013.png",
+    "splitX": 216,
+    "splitY": 180
+  },
+  "board-snailcar-06-2011": {
+    "path": "assets/boards/216x216/board-snailcar-06-2011.png",
+    "splitX": 216,
+    "splitY": 216
+  },
+  "board-catlimo-05-2013": {
+    "path": "assets/boards/250x100/board-catlimo-05-2013.png",
+    "splitX": 250,
+    "splitY": 100
+  },
+  "board-missionfin-2-2012": {
+    "path": "assets/boards/250x101/board-missionfin-2-2012.png",
+    "splitX": 250,
+    "splitY": 101
+  },
+  "board-pirateship-06-2013": {
+    "path": "assets/boards/250x150/board-pirateship-06-2013.png",
+    "splitX": 250,
+    "splitY": 150
+  },
+  "board-pirateshiprc-07-2013": {
+    "path": "assets/boards/250x150/board-pirateshiprc-07-2013.png",
+    "splitX": 250,
+    "splitY": 150
+  },
+  "board_rolls_05_2012": {
+    "path": "assets/boards/250x175/board_rolls_05_2012.png",
+    "splitX": 250,
+    "splitY": 175
+  },
+  "board-pumpcarriage-05-2013": {
+    "path": "assets/boards/250x200/board-pumpcarriage-05-2013.png",
+    "splitX": 250,
+    "splitY": 200
+  },
+  "board-magicpencil-09-2009_rev0111": {
+    "path": "assets/boards/252x60/board-magicpencil-09-2009_rev0111.png",
+    "splitX": 252,
+    "splitY": 60
+  },
+  "board-ghostboat-07-2013": {
+    "path": "assets/boards/266x200/board-ghostboat-07-2013.png",
+    "splitX": 266,
+    "splitY": 200
+  },
+  "board-bunnyspaceship-11-2013": {
+    "path": "assets/boards/340x240/board-bunnyspaceship-11-2013.png",
+    "splitX": 340,
+    "splitY": 240
+  },
+  "board_bluecube_06_2014": {
+    "path": "assets/boards/39x31/board_bluecube_06_2014.png",
+    "splitX": 39,
+    "splitY": 31
+  },
+  "board_pinkcube_06_2014": {
+    "path": "assets/boards/39x31/board_pinkcube_06_2014.png",
+    "splitX": 39,
+    "splitY": 31
+  },
+  "board-rubix-08-2010_rev0111": {
+    "path": "assets/boards/50x40/board-rubix-08-2010_rev0111.png",
+    "splitX": 50,
+    "splitY": 40
+  },
+  "board-animal-05-2010": {
+    "path": "assets/boards/54x54/board-animal-05-2010.png",
+    "splitX": 54,
+    "splitY": 54
+  },
+  "board-basketball-03-3011": {
+    "path": "assets/boards/56x54/board-basketball-03-3011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-blueplanet-08-2011": {
+    "path": "assets/boards/56x54/board-blueplanet-08-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-boulder-08-2011": {
+    "path": "assets/boards/56x54/board-boulder-08-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-boulderrc-08-2011": {
+    "path": "assets/boards/56x54/board-boulderrc-08-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-globe-04-2011": {
+    "path": "assets/boards/56x54/board-globe-04-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-greenplanet-08-2011": {
+    "path": "assets/boards/56x54/board-greenplanet-08-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-yellowplanet-08-2011": {
+    "path": "assets/boards/56x54/board-yellowplanet-08-2011.png",
+    "splitX": 56,
+    "splitY": 54
+  },
+  "board-reindizzle-12-2011": {
+    "path": "assets/boards/60x100/board-reindizzle-12-2011.png",
+    "splitX": 60,
+    "splitY": 100
+  },
+  "board-rubberball-01-2012": {
+    "path": "assets/boards/60x110/board-rubberball-01-2012.png",
+    "splitX": 60,
+    "splitY": 110
+  },
+  "board-premium-11-2011": {
+    "path": "assets/boards/60x40/board-premium-11-2011.png",
+    "splitX": 60,
+    "splitY": 40
+  },
+  "board-spintop-02-2011": {
+    "path": "assets/boards/60x50/board-spintop-02-2011.png",
+    "splitX": 60,
+    "splitY": 50
+  },
+  "board-tire-10-2009_rev0111": {
+    "path": "assets/boards/60x50/board-tire-10-2009_rev0111.png",
+    "splitX": 60,
+    "splitY": 50
+  },
+  "board-sack-08-2011": {
+    "path": "assets/boards/65x117/board-sack-08-2011.png",
+    "splitX": 65,
+    "splitY": 117
+  },
+  "board-sackrcboy-08-2011": {
+    "path": "assets/boards/65x117/board-sackrcboy-08-2011.png",
+    "splitX": 65,
+    "splitY": 117
+  },
+  "board-sackrcgirl-08-2011": {
+    "path": "assets/boards/65x117/board-sackrcgirl-08-2011.png",
+    "splitX": 65,
+    "splitY": 117
+  },
+  "board-colorfultv-02-2011": {
+    "path": "assets/boards/65x65/board-colorfultv-02-2011.png",
+    "splitX": 65,
+    "splitY": 65
+  },
+  "board-spring-03-2012": {
+    "path": "assets/boards/68x46/board-spring-03-2012.png",
+    "splitX": 68,
+    "splitY": 46
+  },
+  "board-watermelon-07-2012": {
+    "path": "assets/boards/69x61/board-watermelon-07-2012.png",
+    "splitX": 69,
+    "splitY": 61
+  },
+  "2016_07_board_watermelon": {
+    "path": "assets/boards/70x50/2016_07_board_watermelon.png",
+    "splitX": 70,
+    "splitY": 50
+  },
+  "2017_02_board_vt_prize": {
+    "path": "assets/boards/70x50/2017_02_board_vt_prize.png",
+    "splitX": 70,
+    "splitY": 50
+  },
+  "board-crown-11-2011": {
+    "path": "assets/boards/71x53/board-crown-11-2011.png",
+    "splitX": 71,
+    "splitY": 53
+  },
+  "board-gameshow-09-2011": {
+    "path": "assets/boards/72x77/board-gameshow-09-2011.png",
+    "splitX": 72,
+    "splitY": 77
+  },
+  "board-bunnyfeet-04-2011": {
+    "path": "assets/boards/73x45/board-bunnyfeet-04-2011.png",
+    "splitX": 73,
+    "splitY": 45
+  },
+  "board-bunnyfeetbl-04-2011": {
+    "path": "assets/boards/73x45/board-bunnyfeetbl-04-2011.png",
+    "splitX": 73,
+    "splitY": 45
+  },
+  "board-icecrystal-12-2012": {
+    "path": "assets/boards/73x60/board-icecrystal-12-2012.png",
+    "splitX": 73,
+    "splitY": 60
+  },
+  "board-armadillo": {
+    "path": "assets/boards/74x43/board-armadillo.png",
+    "splitX": 74,
+    "splitY": 43
+  },
+  "board-potofgold-03-2012": {
+    "path": "assets/boards/74x66/board-potofgold-03-2012.png",
+    "splitX": 74,
+    "splitY": 66
+  },
+  "board-dreidel-12-2012": {
+    "path": "assets/boards/75x75/board-dreidel-12-2012.png",
+    "splitX": 75,
+    "splitY": 75
+  },
+  "board-ladybug-02-2011": {
+    "path": "assets/boards/76x59/board-ladybug-02-2011.png",
+    "splitX": 76,
+    "splitY": 59
+  },
+  "board-chocostraw-02-2012": {
+    "path": "assets/boards/76x67/board-chocostraw-02-2012.png",
+    "splitX": 76,
+    "splitY": 67
+  },
+  "board-chocolatebox-02-2012": {
+    "path": "assets/boards/78x54/board-chocolatebox-02-2012.png",
+    "splitX": 78,
+    "splitY": 54
+  },
+  "board-pixie-07-2011": {
+    "path": "assets/boards/78x63/board-pixie-07-2011.png",
+    "splitX": 78,
+    "splitY": 63
+  },
+  "board-valentinebear-02-2011": {
+    "path": "assets/boards/80x120/board-valentinebear-02-2011.png",
+    "splitX": 80,
+    "splitY": 120
+  },
+  "board-stapler-09-2011": {
+    "path": "assets/boards/80x40/board-stapler-09-2011.png",
+    "splitX": 80,
+    "splitY": 40
+  },
+  "2015_07_uni_board_blackout2_lm_1": {
+    "path": "assets/boards/80x45/2015_07_uni_board_blackout2_lm_1.png",
+    "splitX": 80,
+    "splitY": 45
+  },
+  "board-redplanet-08-2011": {
+    "path": "assets/boards/80x52/board-redplanet-08-2011.png",
+    "splitX": 80,
+    "splitY": 52
+  },
+  "board-chamberednautilus-07-2013": {
+    "path": "assets/boards/80x54/board-chamberednautilus-07-2013.png",
+    "splitX": 80,
+    "splitY": 54
+  },
+  "board-machine-11-2011": {
+    "path": "assets/boards/80x57/board-machine-11-2011.png",
+    "splitX": 80,
+    "splitY": 57
+  },
+  "board-balloondog-05-2012": {
+    "path": "assets/boards/80x70/board-balloondog-05-2012.png",
+    "splitX": 80,
+    "splitY": 70
+  },
+  "board-balloondogp-05-2012": {
+    "path": "assets/boards/80x70/board-balloondogp-05-2012.png",
+    "splitX": 80,
+    "splitY": 70
+  },
+  "board-turkeycube-11-2011": {
+    "path": "assets/boards/80x80/board-turkeycube-11-2011.png",
+    "splitX": 80,
+    "splitY": 80
+  },
+  "board-turkeycuberd-11-2011": {
+    "path": "assets/boards/80x80/board-turkeycuberd-11-2011.png",
+    "splitX": 80,
+    "splitY": 80
+  },
+  "board-happysun-08-2012": {
+    "path": "assets/boards/80x85/board-happysun-08-2012.png",
+    "splitX": 80,
+    "splitY": 85
+  },
+  "board_nut": {
+    "path": "assets/boards/82x55/board_nut.png",
+    "splitX": 82,
+    "splitY": 55
+  },
+  "board-snail-03-2011": {
+    "path": "assets/boards/82x58/board-snail-03-2011.png",
+    "splitX": 82,
+    "splitY": 58
+  },
+  "board-studentsdesk-09-2012": {
+    "path": "assets/boards/83x75/board-studentsdesk-09-2012.png",
+    "splitX": 83,
+    "splitY": 75
+  },
+  "board-candle-06-2012": {
+    "path": "assets/boards/84x157/board-candle-06-2012.png",
+    "splitX": 84,
+    "splitY": 157
+  },
+  "board-dayfourprz-04-2013": {
+    "path": "assets/boards/84x157/board-dayfourprz-04-2013.png",
+    "splitX": 84,
+    "splitY": 157
+  },
+  "board-ivboard-05-2011": {
+    "path": "assets/boards/85x104/board-ivboard-05-2011.png",
+    "splitX": 85,
+    "splitY": 104
+  },
+  "2016_10_board_hw_skull": {
+    "path": "assets/boards/85x60/2016_10_board_hw_skull.png",
+    "splitX": 85,
+    "splitY": 60
+  },
+  "board-toyteeth-03-2011": {
+    "path": "assets/boards/85x80/board-toyteeth-03-2011.png",
+    "splitX": 85,
+    "splitY": 80
+  },
+  "board_sweethearts_02_2014": {
+    "path": "assets/boards/86x62/board_sweethearts_02_2014.png",
+    "splitX": 86,
+    "splitY": 62
+  },
+  "board_aiwbottle_08_2014": {
+    "path": "assets/boards/88x125/board_aiwbottle_08_2014.png",
+    "splitX": 88,
+    "splitY": 125
+  },
+  "2017_09_board_thanksgiving_prize2": {
+    "path": "assets/boards/89x51/2017_09_board_thanksgiving_prize2.png",
+    "splitX": 89,
+    "splitY": 51
+  },
+  "board-heart": {
+    "path": "assets/boards/89x54/board-heart.png",
+    "splitX": 89,
+    "splitY": 54
+  },
+  "board-lemonadestand-08-2012": {
+    "path": "assets/boards/90x129/board-lemonadestand-08-2012.png",
+    "splitX": 90,
+    "splitY": 129
+  },
+  "2017_03_board_rainbow_swirl_candy": {
+    "path": "assets/boards/90x20/2017_03_board_rainbow_swirl_candy.png",
+    "splitX": 90,
+    "splitY": 20
+  },
+  "board-bluemouse-11-2010": {
+    "path": "assets/boards/90x50/board-bluemouse-11-2010.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-heart-blu-2-2011": {
+    "path": "assets/boards/90x50/board-heart-blu-2-2011.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-heart-red-2-2011": {
+    "path": "assets/boards/90x50/board-heart-red-2-2011.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-musicnoteblue-12-2010": {
+    "path": "assets/boards/90x50/board-musicnoteblue-12-2010.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-pinkmouse-11-2010": {
+    "path": "assets/boards/90x50/board-pinkmouse-11-2010.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-sleepcat-07-2010": {
+    "path": "assets/boards/90x50/board-sleepcat-07-2010.png",
+    "splitX": 90,
+    "splitY": 50
+  },
+  "board-leaf-03-2011": {
+    "path": "assets/boards/90x54/board-leaf-03-2011.png",
+    "splitX": 90,
+    "splitY": 54
+  },
+  "board-card-04-2011": {
+    "path": "assets/boards/90x57/board-card-04-2011.png",
+    "splitX": 90,
+    "splitY": 57
+  },
+  "board-redjeep-06-2010_rev0111": {
+    "path": "assets/boards/90x70/board-redjeep-06-2010_rev0111.png",
+    "splitX": 90,
+    "splitY": 70
+  },
+  "board-turkey-11-2011": {
+    "path": "assets/boards/90x78/board-turkey-11-2011.png",
+    "splitX": 90,
+    "splitY": 78
+  },
+  "board-tulip-03-2012": {
+    "path": "assets/boards/90x79/board-tulip-03-2012.png",
+    "splitX": 90,
+    "splitY": 79
+  },
+  "board-stocking-12-2011": {
+    "path": "assets/boards/90x89/board-stocking-12-2011.png",
+    "splitX": 90,
+    "splitY": 89
+  },
+  "board-hammertime-07-2012": {
+    "path": "assets/boards/92x100/board-hammertime-07-2012.png",
+    "splitX": 92,
+    "splitY": 100
+  },
+  "board-picnicset-04-2011": {
+    "path": "assets/boards/94x77/board-picnicset-04-2011.png",
+    "splitX": 94,
+    "splitY": 77
+  },
+  "2016_09_air4_board_rare": {
+    "path": "assets/boards/94x96/2016_09_air4_board_rare.png",
+    "splitX": 94,
+    "splitY": 96
+  },
+  "board-lamppost-06-2012": {
+    "path": "assets/boards/95x178/board-lamppost-06-2012.png",
+    "splitX": 95,
+    "splitY": 178
+  },
+  "board-hotdog-07-2011": {
+    "path": "assets/boards/95x63/board-hotdog-07-2011.png",
+    "splitX": 95,
+    "splitY": 63
+  },
+  "board-snowblower-12-2011": {
+    "path": "assets/boards/95x64/board-snowblower-12-2011.png",
+    "splitX": 95,
+    "splitY": 64
+  },
+  "board-elephant-08-2011": {
+    "path": "assets/boards/95x80/board-elephant-08-2011.png",
+    "splitX": 95,
+    "splitY": 80
+  },
+  "board-spaceshipwily-05-2011": {
+    "path": "assets/boards/95x85/board-spaceshipwily-05-2011.png",
+    "splitX": 95,
+    "splitY": 85
+  },
+  "board-chick-04-2012": {
+    "path": "assets/boards/96x89/board-chick-04-2012.png",
+    "splitX": 96,
+    "splitY": 89
+  },
+  "board-easterbasket-04-2012": {
+    "path": "assets/boards/96x89/board-easterbasket-04-2012.png",
+    "splitX": 96,
+    "splitY": 89
+  },
+  "board-jellybean-04-2012": {
+    "path": "assets/boards/96x89/board-jellybean-04-2012.png",
+    "splitX": 96,
+    "splitY": 89
+  },
+  "board-sheep-04-2012": {
+    "path": "assets/boards/96x89/board-sheep-04-2012.png",
+    "splitX": 96,
+    "splitY": 89
+  },
+  "2017_09_board_hamster_gift": {
+    "path": "assets/boards/97x100/2017_09_board_hamster_gift.png",
+    "splitX": 97,
+    "splitY": 100
+  },
+  "board_enemy-10-2012": {
+    "path": "assets/boards/98x60/board_enemy-10-2012.png",
+    "splitX": 98,
+    "splitY": 60
+  }
+}
