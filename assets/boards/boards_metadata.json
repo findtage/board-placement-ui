@@ -3901,7 +3901,7 @@
   },
   "board-nysnake-12-2012": {
     "path": "assets/boards/200x120/board-nysnake-12-2012.png",
-    "splitX": 200,
+    "splitX": 150,
     "splitY": 120
   },
   "2014_12_ecommerce_board1": {
