@@ -4226,7 +4226,7 @@
   },
   "board-ghostboat-07-2013": {
     "path": "assets/boards/266x200/board-ghostboat-07-2013.png",
-    "splitX": 266,
+    "splitX": 200,
     "splitY": 200
   },
   "board-bunnyspaceship-11-2013": {
